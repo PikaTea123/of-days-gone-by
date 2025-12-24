@@ -3,3 +3,4 @@
 ---
 
 [[Characters/The Pantheon/The Pantheon\|The Pantheon]]
+[[Characters/Playable Characters/Playable Characters\|Playable Characters]]
