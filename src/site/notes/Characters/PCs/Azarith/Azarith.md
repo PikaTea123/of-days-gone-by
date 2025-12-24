@@ -2,7 +2,15 @@
 {"dg-publish":true,"permalink":"/characters/p-cs/azarith/azarith/"}
 ---
 
+<font color="#eeece1"><u><strong><font color="#ffffff"><div class="epithet">The Fireworks Chaser</div></font></strong></u></font>
+><center>"How long will it take? How much longer must I keep <strong>chasing that warmth?</strong>"</center>
+## **Details:**
+---
 
+|         | Ancestry   | Background | Class  | Subclass | Age/S | Height | Aspect      |
+| ------- | ---------- | ---------- | ------ | -------- | ----- | ------ | ----------- |
+| Azarith | Lizardfolk | Hermit     | Wizard | Illusion | 21M   | 6'1"   | Alexithymia |
+## **Backstory:**
 ---
 >Azarith is the son of [[Characters/PCs/Ixila & Basset/Ixila & Basset\|Ixila & Basset]], a member of the [[Factions/Waxing Crescent Guild\|Waxing Crescent Guild]] that specializes in making candles and candlesticks, although Azarith never got to know his birth parents. When Azarith was about 2, he rode with Ixila on a merchant caravan heading north to the town of [[Locations/Tharin/Wydell/Wydell\|Wydell]], where the guild planned to set up shop. During this trip, the caravan was caught in a massive snowstorm that ended up separating Azarith from the rest of the group. Alone in the frigid wilderness, Azarith’s death would have been almost assured if he wasn’t found and taken in by [[Characters/Side Characters/Ei Aivan\|Ei Aivan]], former member of the [[Factions/Order of the Arbour\|Order of the Arbour]] and master illusionist. At her cabin in the woods, he would study under her mentorship for the next 14 years to learn illusion magic. While he has few memories from his earlier years, he does remember the cabin being broken into when he was 5 by [[Characters/PCs/Dr. Will Erneut/Dr. Will Erneut\|Dr. Will Erneut]]. Despite him not noticing anything actually having been stolen, Ei seemed quite worried, because, unbeknownst to him, Dr. Erneut had stolen the [[Magic Items/Nagaiame’s Gifts/Dunes of Ksekamt\|Dunes of Ksekamt]], the artifact bestowed to Ei from [[Characters/The Pantheon/Nagaiame\|Nagaiame]].
 >
