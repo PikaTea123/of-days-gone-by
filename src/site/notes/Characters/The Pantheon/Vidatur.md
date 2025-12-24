@@ -27,7 +27,7 @@ Vidatur takes the form of a large, glowing, spectral deer, standing at approxima
 
 ---
 ## The Lunar Courts
-Up on the moon lies lush yet silver-dusted thickets that dot the moon, where they reign, lies the afterlife of all animals where the souls of animals are put to rest, or for those with a grander destiny in mind, are inducted into one of three Lunar Courts: the Shepherd's Court, the Hunter's Court, or the Bellwether's Court. Eight Higher Council members lead the Lunar Courts, although with the recent desertion of [[Characters/PCs/Conan Dubhan & Beo/Conan Dubhan & Beo\|Beo]], the Shepherd Some say they can see the silhouette of a rabbit on the moon, the first ever reaped spirit, and the one who gave up its eternal afterlife to pave the future of afterlife for all. 
+Up on the moon lies lush yet silver-dusted thickets that dot the moon, where they reign, lies the afterlife of all animals where the souls of animals are put to rest, or for those with a grander destiny in mind, are inducted into one of three Lunar Courts: the Shepherd's Court, the Hunter's Court, or the Bellwether's Court. Eight Higher Council members lead the Lunar Courts, although with the recent desertion of [[Characters/Playable Characters/Conan Dubhan & Beo/Conan Dubhan & Beo\|Beo]], the Shepherd Some say they can see the silhouette of a rabbit on the moon, the first ever reaped spirit, and the one who gave up its eternal afterlife to pave the future of afterlife for all. 
 ### The Shepherd's Court:
 >   The Shepherd's Court is responsible for the deliverance of dreams to all, and every court member, no matter the rank, descends each night to grant dreams, although some will descend during the day if a situation so calls. 
 ### The Hunter's Court:
