@@ -1,0 +1,35 @@
+---
+{"dg-publish":true,"permalink":"/characters/p-cs/yuan-jiao/yuan-jiao/"}
+---
+
+<font color="#eeece1"><u><strong><font color="#ffffff"><div class="epithet">The Secre Blaze</div></font></strong></u></font>
+><center>"The smell still lingers in my hair—smoke. <strong>The scent of a burning wish.</strong>"</center>
+## **Details:**
+---
+
+|           | Ancestry            | Background | Class   | Subclass | Age/S | Height | Aspect    |
+| --------- | ------------------- | ---------- | ------- | -------- | ----- | ------ | --------- |
+| Yuan Jiao | Swiftstride Shifter | Folk Hero  | Fighter | Cavalier | 40M   | 6'6"   | Avoidance |
+## **Backstory:**
+---
+>Yuan Jiao was born into a tribe of werewolves called the [[Factions/Kànláng\|Kànláng]] just on the outskirts of the town of [[Locations/Tharin/Anadrie/Ptarmigy/Ptarmigy\|Ptarmigy]] who hid themselves from humans to protect their tribe. Growing up, the village elders stressed the importance of keeping their tribe a secret for everyone's safety. However, on one of Yuan Jiao's hunting expeditions, he broke off from the rest of the group after hearing a young child's cry for help. Upon seeing the young child clinging to a rock, about to be swept away by the river, he transformed into his werewolf form to save her, not thinking much of it as she scampered off back home with renewed vigour. However, despite the Kànláng's complete avoidance of humans and pacifism, the citizens of Ptarmigy felt threatened by their existence, and so they hired a large number of mercenaries to ambush the tribe in the night. By the time they learned of this attack, it was too late to flee. Still, the elders had one last Hail Mary. They gathered the tribe members that were the best at maintaining their human forms and dressed them up in human armour, directing them that once the ambush begins, they should blend in with the rest of the mercenaries in the chaos, turning their blades on their own people in an effort to convince the invaders that these chosen packmates were one of their own. And Yuan Jiao happened to be one of these people. Mounting his faithful steed, Kuai, he hid in wait to enact their last stand, even if it meant killing his own people.
+>
+>After the slaughter, Yuan Jiao was celebrated along with the mercenaries for their efforts and payed a small sum of money which he used to sustain himself as he performed odd jobs to save funds for his new dream: a great inn, one that stands tall in Ptarmigy—in the center of the continent—and bridges the divide between all people, regardless of background. It would be a symbol of unity, a reminder of those fallen, and a haven for all. For more than two decades, he worked and saved to create this dream. The last commission he took was one to dismantle an operation the [[Factions/Cult of the Lead Swan\|Cult of the Lead Swan]] would be commencing that involved a weapon of mass destruction with the potential to destroy an entire city sector. During this commission, Yuan Jiao would meet his two best friends, [[Characters/PCs/Dara Bakvong/Dara Bakvong\|Dara Bakvong]] and [[Characters/PCs/Kaioptych 1109/Kaioptych 1109\|Kaioptych 1109]]. Dara was one of the members of the cult, although Dara seemed to be shocked at the full extent of what the cult’s operation entailed. Here, they made a deal: Dara would aid Yuan Jiao in his mission as long as Yuan Jiao showed him the real world, the one beyond the cult’s control. With his guidance, Yuan Jiao was able to break in and steal Kaio, the keystone to the cult’s plan as the aforementioned weapon of mass destruction, and taking pity on the machine, Yuan Jiao took him in. Together, they founded the [[Locations/Tharin/Anadrie/Ptarmigy/Ptarmigy Inn\|Ptarmigy Inn]].
+>
+>During the time of the Ptarmigy Inn, Yuan Jiao started a tradition of asking passing travelers and adventurers to write their wishes on slips of paper that he’d tie into his hair as a symbol of unity for the nation. Quickly, the three became great friends, many people even insisting that the glances between Yuan Jiao and Dara were just a little too intimate, held a little too long to just be a friendship. Still, Dara and Kaio were the only two non-Kànláng to ever learn of Yuan Jiao’s werewolf ancestry. Yuan Jiao kept one more secret, however, even from Dara and Kaio. He knew that Kaio would detonate at some point, the time bomb programmed into him never having been turned off. And yet, not knowing exactly when allowed him to put it off. Pretend that everything was okay in this neat, little found family he’d made. Secrets were how he’d survived after all; what’s one more? Too afraid of losing Kaio, he did nothing, and it all culminated in [[Locations/Tharin/Anadrie/Ptarmigy/Ptarmigy Inn#The Ptarmigy Inn Tragedy\|The Ptarmigy Inn Tragedy]]. Unknown to both Dara and Kaio, Yuan Jiao wasn’t inside the inn when the tragedy struck, having been out on a midnight stroll. However, as Yuan Jiao watched as the inn set ablaze in only a few minutes, chaos breaking out through the halls, he ran. First in, then out. In guilt, in shame, and in fear. Now he wanders from inn to inn with Kuai by his side, trying desperately to atone for his sins while also looking for a reason to hope. Perhaps one day, he’ll remember that the reasons were always right there, tied into his hair, once singed but never destroyed.
+## **Etymology:**
+---
+>"Yuàn Jiāo" or "愿焦" in Chinese is made of the characters that mean "wish" and "burnt". "Kuài" or "快" is the name of his horse, and it means "rapid".
+## **Gallery:**
+---
+```button
+name Gallery
+type link
+action obsidian://open?vault=Of%20Days%20Gone%20By&file=Whisp%2FGallery.canvas
+class Gallery
+```{ #button-yc0f}
+
+## **Tags:**
+---
+#Character #Set1 #PC #PtarmigyInn 
+
