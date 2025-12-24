@@ -33,15 +33,6 @@
 ## **Etymology:**
 ---
 >"Katherine" comes from the Greek "katharos", meaning pure, but can also be linked to "hekatere", meaning "each of the two", or even "aikia", meaning torture, alluding to her dark pact. "Avaldi" is meaningless.
-## **Gallery:**
----
-```button
-name Gallery
-type link
-action obsidian://open?vault=Of%20Days%20Gone%20By&file=Whisp%2FGallery.canvas
-class Gallery
-```{ #button-yc0f}
-
 ## **Tags:**
 ---
 #Character #Set1 #PC #TheWCG #ThePermafrostWar 

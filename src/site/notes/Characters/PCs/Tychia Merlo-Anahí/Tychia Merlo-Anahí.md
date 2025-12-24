@@ -29,15 +29,6 @@
 ## **Etymology:**
 ---
 >"Tychia" comes from the Greek "tyche" (Τύχη), meaning fate. "Merlo" comes from the Latin "merulo", meaning blackbird, which are often bad omens, and "Anahí" comes from the Guarani legend of a woman who was burned at the stake by conquistadors and then turned into a cockspur coral tree.
-## **Gallery:**
----
-```button
-name Gallery
-type link
-action obsidian://open?vault=Of%20Days%20Gone%20By&file=Whisp%2FGallery.canvas
-class Gallery
-```{ #button-yc0f}
-
 ## **Tags:**
 ---
 #Character #Set2 #PC #TheCrabPact

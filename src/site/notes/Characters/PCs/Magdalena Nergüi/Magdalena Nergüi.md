@@ -26,15 +26,6 @@
 ## **Etymology:**
 ---
 >"Magdalena" is a variation of "Magdalene", referencing Mary Magdalene who, in the New Testament, witnessed Jesus' crucifixion and resurrection, and "Nergüi" means "no name" in Mongolian.
-## **Gallery:**
----
-```button
-name Gallery
-type link
-action obsidian://open?vault=Of%20Days%20Gone%20By&file=Whisp%2FGallery.canvas
-class Gallery
-```{ #button-yc0f}
-
 ## **Tags:**
 ---
 #Character #Set2 #PC #TheCrabPact

@@ -58,15 +58,6 @@
 ## **Etymology:**
 ---
 >"Ixila" comes from the Basque "ixilik", meaning "silence". "Basset" comes from the French "bas" meaning "low".
-## **Gallery:**
----
-```button
-name Gallery
-type link
-action obsidian://open?vault=Of%20Days%20Gone%20By&file=Whisp%2FGallery.canvas
-class Gallery
-```{ #button-yc0f}
-
 ## **Tags:**
 ---
 #Character #Set3 #PC #TheWCG 

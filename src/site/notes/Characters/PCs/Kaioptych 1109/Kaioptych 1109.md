@@ -20,15 +20,6 @@
 ## **Etymology:**
 ---
 >"Kaio" in Greek is a verb that means "to burn", and "-ptych" is a Greek root meaning "fold". The 1109 is a pun on Japanese number readings. 1-10-9 can be read as "hi-to-ku" (火解く), which roughly translates to "to unbind a fire". However, it can also be read as "hito-juu-ku" or "hi to juuku" (非と重苦), which translates to "error and intense suffering".
-## **Gallery:**
----
-```button
-name Gallery
-type link
-action obsidian://open?vault=Of%20Days%20Gone%20By&file=Whisp%2FGallery.canvas
-class Gallery
-```{ #button-yc0f}
-
 ## **Tags:**
 ---
 #Character #Set1 #PC #PtarmigyInn #CotLS 

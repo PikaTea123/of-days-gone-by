@@ -26,15 +26,6 @@
 ## **Etymology:**
 ---
 >Both "Suk" and "Yeong" come from hanja that mean "hero", and Mun comes from the character meaning "writing".
-## **Gallery:**
----
-```button
-name Gallery
-type link
-action obsidian://open?vault=Of%20Days%20Gone%20By&file=Whisp%2FGallery.canvas
-class Gallery
-```{ #button-yc0f}
-
 ## **Tags:**
 ---
 #Character #Set2 #PC #ThePermafrostWar 

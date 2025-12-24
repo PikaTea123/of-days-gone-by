@@ -20,15 +20,6 @@
 ## **Etymology:**
 ---
 >"Yuàn Jiāo" or "愿焦" in Chinese is made of the characters that mean "wish" and "burnt". "Kuài" or "快" is the name of his horse, and it means "rapid".
-## **Gallery:**
----
-```button
-name Gallery
-type link
-action obsidian://open?vault=Of%20Days%20Gone%20By&file=Whisp%2FGallery.canvas
-class Gallery
-```{ #button-yc0f}
-
 ## **Tags:**
 ---
 #Character #Set1 #PC #PtarmigyInn 

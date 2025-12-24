@@ -20,15 +20,6 @@
 ## **Etymology:**
 ---
 >"Nereo" is the Spanish form of "Nereus", the Greek god of the sea's bounty. "Ahogar" in Spanish translates directly to "to drown".
-## **Gallery:**
----
-```button
-name Gallery
-type link
-action obsidian://open?vault=Of%20Days%20Gone%20By&file=Nereo%20Ahogar%2FGallery.canvas
-class Gallery
-```{ #button-yc0f}
-
 ## **Tags:**
 ---
 #Character #Set1 #PC 

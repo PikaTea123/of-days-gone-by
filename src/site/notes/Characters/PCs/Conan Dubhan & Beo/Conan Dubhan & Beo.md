@@ -21,15 +21,6 @@
 ## **Etymology:**
 ---
 > "Conan" and "Dubhan" come from Gaelic, meaning "little wolf" and "little dark one" respectively. "Beo" is a reference to "Beowulf", mainly as a pun on the fact that he is a wolf.
-## **Gallery:**
----
-```button
-name Gallery
-type link
-action obsidian://open?vault=Of%20Days%20Gone%20By&file=Characters%2FPCs%2FConan%20Dubhan%2FGallery.canvas
-class Gallery
-```{ #button-yc0f}
-
 ## **Tags:**
 ---
 #Character #Set1 #PC 

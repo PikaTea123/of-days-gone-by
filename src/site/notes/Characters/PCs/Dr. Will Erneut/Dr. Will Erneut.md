@@ -20,15 +20,6 @@
 ## **Etymology:**
 ---
 >"Erneut" in German translates to "again" or "anew", and "Will" alludes to "willpower".
-## **Gallery:**
----
-```button
-name Gallery
-type link
-action obsidian://open?vault=Of%20Days%20Gone%20By&file=Whisp%2FGallery.canvas
-class Gallery
-```{ #button-yc0f}
-
 ## **Tags:**
 ---
 #Character #Set1 #PC #CotLS

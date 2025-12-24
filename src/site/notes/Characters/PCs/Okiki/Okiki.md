@@ -30,15 +30,6 @@
 ## **Etymology:**
 ---
 >"Okiki" translates to "fame" or "prestige" in Yoruba.
-## **Gallery:**
----
-```button
-name Gallery
-type link
-action obsidian://open?vault=Of%20Days%20Gone%20By&file=Whisp%2FGallery.canvas
-class Gallery
-```{ #button-yc0f}
-
 ## **Tags:**
 ---
 #Character #Set2 #PC #TheShatteredGod 

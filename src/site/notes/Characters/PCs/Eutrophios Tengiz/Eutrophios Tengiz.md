@@ -34,15 +34,6 @@
 ## **Etymology:**
 ---
 >"Eutrophios" is a portmanteau of the Greek name "Eutropios", meaning "well mannered", and "eutrophication", a phenomenon were nutrient-rich bodies of water become inundated by algae, which consume all of the oxygen and become incapable of supporting life. "Tengiz" means "sea" in Turkic.
-## **Gallery:**
----
-```button
-name Gallery
-type link
-action obsidian://open?vault=Of%20Days%20Gone%20By&file=Whisp%2FGallery.canvas
-class Gallery
-```{ #button-yc0f}
-
 ## **Tags:**
 ---
 #Character #Set2 #PC #TheCrabPact

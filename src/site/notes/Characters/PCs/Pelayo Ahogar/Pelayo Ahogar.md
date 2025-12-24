@@ -29,15 +29,6 @@
 ## **Etymology:**
 ---
 >"Pelayo" is the Spanish derivative of the Greek name "Pelagius", meaning "of the sea", and "Ahogar" directly translates to "to drown" in Spanish.
-## **Gallery:**
----
-```button
-name Gallery
-type link
-action obsidian://open?vault=Of%20Days%20Gone%20By&file=Whisp%2FGallery.canvas
-class Gallery
-```{ #button-yc0f}
-
 ## **Tags:**
 ---
 #Character #Set2 #PC #OotA #TheShatteredGod #TheCrabPact

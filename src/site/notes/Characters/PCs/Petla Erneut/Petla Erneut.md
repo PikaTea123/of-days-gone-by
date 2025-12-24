@@ -34,15 +34,6 @@
 ## **Etymology:**
 ---
 >"Petla" comes from the Polish "pętla", meaning loop. "Erneut" in German translates to "again" or "anew".
-## **Gallery:**
----
-```button
-name Gallery
-type link
-action obsidian://open?vault=Of%20Days%20Gone%20By&file=Whisp%2FGallery.canvas
-class Gallery
-```{ #button-yc0f}
-
 ## **Tags:**
 ---
 #Character #Set1 #PC 

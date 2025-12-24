@@ -25,15 +25,6 @@
 ## **Etymology:**
 ---
 > "Cassiopeia" is a reference to the Greek myth of Cassiopeia, where due to her sins, Cassiopeia was chained to a throne for eternity in the constellations. "Dupont" means "from the bridge", symbolizing how the gates she guards are bridges between planes.
-## **Gallery:**
----
-```button
-name Gallery
-type link
-action obsidian://open?vault=Of%20Days%20Gone%20By&file=Whisp%2FGallery.canvas
-class Gallery
-```{ #button-yc0f}
-
 ## **Tags:**
 ---
 #Character #Set1 #PC

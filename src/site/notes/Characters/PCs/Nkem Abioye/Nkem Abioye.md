@@ -23,15 +23,6 @@
 ## **Etymology:**
 ---
 >"Nkem" is short for "Nkemdilim" which means "that which is mine belongs to me" in Igbo. "Abioye" means "born into royalty" in Yoruba. "Ifunanya" translates to "love", but also to "to see in one's eye" as she can only communicate by being seen.
-## **Gallery:**
----
-```button
-name Gallery
-type link
-action obsidian://open?vault=Of%20Days%20Gone%20By&file=Whisp%2FGallery.canvas
-class Gallery
-```{ #button-yc0f}
-
 ## **Tags:**
 ---
 #Character #Set2 #PC #ThePermafrostWar 
