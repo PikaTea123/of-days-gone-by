@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/characters/playable-characters/yuan-jiao/yuan-jiao/"}
 ---
 
-<font color="#eeece1"><u><strong><font color="#ffffff"><div class="epithet">The Secre Blaze</div></font></strong></u></font>
+<font color="#eeece1"><u><strong><font color="#ffffff"><div class="epithet">The Fading Corposant</div></font></strong></u></font>
 ><center>"The smell still lingers in my hair—smoke. <strong>The scent of a burning wish.</strong>"</center>
 ## **Details:**
 ---
