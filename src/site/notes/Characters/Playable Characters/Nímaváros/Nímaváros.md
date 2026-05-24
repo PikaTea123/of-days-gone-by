@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/playable-characters/nimavaros/nimavaros/"}
+{"dg-publish":true,"permalink":"/characters/playable-characters/nimavaros/nimavaros/","dg-note-properties":{}}
 ---
 
 <font color="#eeece1"><u><strong><font color="#ffffff"><div class="epithet">The Beast of Burden</div></font></strong></u></font>
@@ -9,7 +9,7 @@
 
 |           | Ancestry | Background | Class  | Subclass     | Age/S | Height | Aspect     |
 | --------- | -------- | ---------- | ------ | ------------ | ----- | ------ | ---------- |
-| Nímaváros | Minotaur | Faceless   | Ranger | Beast Master | 154F  | 6'8"   | Contrition |
+| Nímaváros | Minotaur | Faceless   | Ranger | Beast Master | 253F  | 6'8"   | Contrition |
 ## **Backstory:**
 ---
 - Original commander of the [[Factions/Cult of the Lead Swan\|Cult of the Lead Swan]], seduced by the idea of power to avoid being a burden
@@ -19,10 +19,11 @@
 - In the labyrinth, she spent the next 100 years hiding away, surviving off the barest resources and befriending the few animals inside
 - Eventually, [[Characters/Playable Characters/Petla Erneut/Petla Erneut\|Petla Erneut]] came to raid the labyrinth, and after a brief scuffle, they befriended each other
 - After learning of her partner's betrayal, she vowed to take her revenge
+- Joined the [[Factions/Cirque des Fées\|Cirque des Fées]] with Petla to gain access to info about the Cult of the Lead Swan
 ## **Etymology:**
 ---
 >"Nímaváros" (νήμαβάρος) consists of "Níma", which in Greek means "thread", and "Város", which means "burden".
 ## **Tags:**
 ---
-#Character #Set2 #PC #CotLS
+#Character #Set2 #PC #CultOfTheLeadSwan #LeCirqueDesFées #Anadrie 
 

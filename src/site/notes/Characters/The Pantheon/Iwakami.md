@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/the-pantheon/iwakami/"}
+{"dg-publish":true,"permalink":"/characters/the-pantheon/iwakami/","dg-note-properties":{}}
 ---
 
 <font color="#eeece1"><u><strong><font color="#ffffff"><div class="epithet">Icon of Remembrance</div></font></strong></u></font>

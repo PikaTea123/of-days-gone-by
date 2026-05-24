@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/the-pantheon/kragnyr/"}
+{"dg-publish":true,"permalink":"/characters/the-pantheon/kragnyr/","dg-note-properties":{}}
 ---
 
 <font color="#eeece1"><u><strong><font color="#ffffff"><div class="epithet">Icon of the Inferno</div></font></strong></u></font>

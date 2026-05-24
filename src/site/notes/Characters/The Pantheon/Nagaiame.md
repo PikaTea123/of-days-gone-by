@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/the-pantheon/nagaiame/"}
+{"dg-publish":true,"permalink":"/characters/the-pantheon/nagaiame/","dg-note-properties":{}}
 ---
 
 <font color="#eeece1"><u><strong><font color="#ffffff"><div class="epithet">Icon of Erosion

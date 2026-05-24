@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/the-pantheon/mizlaba/"}
+{"dg-publish":true,"permalink":"/characters/the-pantheon/mizlaba/","dg-note-properties":{}}
 ---
 
 <font color="#eeece1"><u><strong><font color="#ffffff"><div class="epithet">Icon of the Expanse</div></font></strong></u></font>

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/playable-characters/mild-dissociation/mild-dissociation/"}
+{"dg-publish":true,"permalink":"/characters/playable-characters/mild-dissociation/mild-dissociation/","dg-note-properties":{}}
 ---
 
 <font color="#eeece1"><u><strong><font color="#ffffff"><div class="epithet">The Cerberus of Purgatory</div></font></strong></u></font>
@@ -14,7 +14,7 @@
 ---
 - After the fall of [[Characters/The Pantheon/Nagaiame\|Nagaiame]], although [[Characters/The Pantheon/Ard'okaal\|Ard'okaal]] absorbed most of his domain, Ard'okaal couldn't absorb the domain of chromatic dragons as she had nothing to do with them
 - This left chromatic dragons severely magically weakened
-- Mild Dissociation was once a soldier for his village, he was sent on a mission to clear out a dragon's den just to the north
+- Mild Dissociation was once a soldier the small village of [[Locations/Tharin/Anadrie/Allek\|Allek]], he was sent on a mission to clear out a dragon's den just to the north
 - Despite the evil of chromatic dragons being mostly a holdover of past stereotypes, chromatic dragons were still constantly villainized and villages were keen to capitalize on their newfound weakness
 - Killed both the dragon mother and the eggs in the den
 - Had been participating in a psychiatry clinic that travelled to his village
@@ -31,5 +31,5 @@
 > As on the nose as you can get.
 ## **Tags:**
 ---
-#Character #Set2 #PC 
+#Character #Set2 #PC #Anadrie 
 

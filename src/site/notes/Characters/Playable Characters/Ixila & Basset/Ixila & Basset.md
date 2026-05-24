@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/characters/playable-characters/ixila-and-basset/ixila-and-basset/"}
+{"dg-publish":true,"permalink":"/characters/playable-characters/ixila-and-basset/ixila-and-basset/","dg-note-properties":{}}
 ---
 
 <font color="#eeece1"><u><strong><font color="#ffffff"><div class="epithet">The Weathering Papyrus</div></font></strong></u></font>
-><center><strong></strong></center>
+><center>"<strong></strong>"</center>
 ## **Details:**
 ---
 
@@ -39,7 +39,7 @@
 	- Founded the [[Factions/Malt and Pearson Co.\|Malt and Pearson Co.]] in order to discover the secrets of resurrection; wants to only use it for those taken well before their time
 	- Believes people should at least be given the chance to secure their legacy; hates injustice and unfairness; "why should luck be the determiner in whether your life gets to have meaning?"
 	- Travelled around to sites of mass death and destruction such as the [[Factions/Kànláng\|Kànláng]] and [[Factions/Vek'nai\|Vek'nai]] massacres and captured ghosts that lingered in the area due to feelings of unfinished business
-	- Due to [[Characters/Playable Characters/Conan Dubhan & Beo/Conan Dubhan & Beo\|Beo]]'s desertion of the [[Characters/The Pantheon/Vidatur#The Lunar Courts\|Lunar Courts]], the Hunter's Court has been in slight disarray as the Lunar Courts try to deal with an unprecedented loss of a major role within the hierarchy
+	- Due to [[Characters/Playable Characters/Conan Dubhan & Beo/Conan Dubhan & Beo\|Beo]]'s desertion of the [[Locations/Planes/Lunar Courts\|Lunar Courts]], the Hunter's Court has been in slight disarray as the Lunar Courts try to deal with an unprecedented loss of a major role within the hierarchy
 	- This created enough of a gap between the actual deaths and the Hunter's Court coming to collect the particularly stubborn souls (a shocking number of the deaths in the massacres) for Basset to come in and seal the souls in special scrolls with incantations inscribed on them in [[Magic Items/Remet Ink and Paper\|Remet Ink]], a special ink that is able to manipulate souls but is insanely expensive due to the extensive distillation process it takes to make it
 	- In this way, he believes he can keep the souls complete as he tries to discover the secrets to resurrection (although each soul requires an exorbitant amount of Remet Ink and Remet Paper to keep contained)
 - Both were in the Waxing Crescent Guild; decided to make a bet to see who could climb higher in the ranks of the guild; the winner would then be crowned as having the "correct" ideology, although this was mainly for fun, and they both still respected the other as being entitled to their own opinions
@@ -60,4 +60,4 @@
 >"Ixila" comes from the Basque "ixilik", meaning "silence". "Basset" comes from the French "bas" meaning "low".
 ## **Tags:**
 ---
-#Character #Set3 #PC #TheWCG 
+#Character #Set3 #PC #TheWaxingCrescentGuild #Muejiza #Wydell 

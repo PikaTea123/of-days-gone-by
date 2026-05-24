@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/playable-characters/zhyrgal-demasi/zhyrgal-demasi/"}
+{"dg-publish":true,"permalink":"/characters/playable-characters/zhyrgal-demasi/zhyrgal-demasi/","dg-note-properties":{}}
 ---
 
 <font color="#eeece1"><u><strong><font color="#ffffff"><div class="epithet">The Weaver of Lacunae</div></font></strong></u></font>
@@ -12,6 +12,8 @@
 | Zhyrgal | Tiefling | Criminal   | Psion | Telepath | 111F  | 5'6"   | Neglect |
 ## **Backstory:**
 ---
+- Part of the [[Factions/Crab Pact\|Crab Pact]]
+- Was raised on neglect
 - Parents mistook her difficulties with properly expressing her emotions as antisocial behaviour and a disdain for others
 - Due to this, they largely ignored her and alienated her from the family
 - As such, she never truly learned how to express her emotions properly
@@ -20,11 +22,11 @@
 - She found solace in weaving and making silk clothing; joined the Waxing Crescent Guild and, through lots of hard work, managed to climb her way into high respect
 - Helped source adventuring gear for [[Characters/Playable Characters/Pelayo Ahogar/Pelayo Ahogar\|Pelayo Ahogar]] and [[Characters/Playable Characters/Tychia Merlo-Anahí/Tychia Merlo-Anahí\|Tychia Merlo-Anahí]] through the Waxing Crescent Guild; was the one who bought the magical artifacts that they found on their adventures and fed them into the market
 - One day, [[Characters/Side Characters/Helle Agnes\|Helle Agnes]] approaches her with the Runenbijl and tasks her with keeping it safe.
-- The [[Factions/Surna-Yele\|Surna-Yele]] capture Zhyrgal and, to buy herself time, she "sells out" Pelayo. Zhyrgal books it to Vantegramen and uses her good standing in the [[Factions/Waxing Crescent Guild\|Waxing Crescent Guild]] to put Runenbijl under royal protection, although the severity of this request isn't conveyed very well, and the king instead displays it in the main area for its beauty
+- The [[Locations/Tharin/Marzol/Lapisean Ocean/Surna-Yele\|Surna-Yele]] capture Zhyrgal and, to buy herself time, she "sells out" Pelayo. Zhyrgal books it to Vantegramen and uses her good standing in the [[Factions/Waxing Crescent Guild\|Waxing Crescent Guild]] to put Runenbijl under royal protection, although the severity of this request isn't conveyed very well, and the king instead displays it in the main area for its beauty
 - Zhyrgal is now on the run from the police who suspect her of killing Pelayo
 ## **Etymology:**
 ---
 >"Zhyrgal" means "happiness" in Kyrgyz, and "Demasi" comes from the Spanish "demasiado", meaning "too much".
 ## **Tags:**
 ---
-#Character #Set2 #PC #TheCrabPact #TheWCG
+#Character #Set2 #PC #TheCrabPact #TheWaxingCrescentGuild #Marzol 

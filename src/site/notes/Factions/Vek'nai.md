@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/factions/vek-nai/"}
+{"dg-publish":true,"permalink":"/factions/vek-nai/","dg-note-properties":{}}
 ---
 
 ## Vek’nai Massacre

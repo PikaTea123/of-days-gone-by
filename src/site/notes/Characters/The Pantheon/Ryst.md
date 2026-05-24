@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/the-pantheon/ryst/"}
+{"dg-publish":true,"permalink":"/characters/the-pantheon/ryst/","dg-note-properties":{}}
 ---
 
 <font color="#eeece1"><u><strong><font color="#ffffff"><div class="epithet">Icon of Awe</div></font></strong></u></font>

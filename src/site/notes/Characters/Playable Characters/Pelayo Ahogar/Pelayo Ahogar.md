@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/characters/playable-characters/pelayo-ahogar/pelayo-ahogar/"}
+{"dg-publish":true,"permalink":"/characters/playable-characters/pelayo-ahogar/pelayo-ahogar/","dg-note-properties":{}}
 ---
 
 <font color="#eeece1"><u><strong><font color="#ffffff"><div class="epithet">The Cyst in the Mangrove</div></font></strong></u></font>
-><center><strong></strong></center>
+><center>"<strong></strong>"</center>
 ## **Details:**
 ---
 
@@ -11,7 +11,8 @@
 | ------ | -------- | ---------- | ----- | ------------ | ----- | ------ | ------ |
 | Pelayo | Tabaxi   | Sailor     | Rogue | Swashbuckler | 108M  | 5'11"  | Shame  |
 ## **Backstory:**
-- Part of [[Factions/The Crab Pact\|The Crab Pact]]
+- Part of the [[Factions/Crab Pact\|Crab Pact]]
+- Was raised on shame
 - Told to be constantly cognizant of his conduct to avoid scaring and hurting others
 - Large stature and intimidating appearance made others automatically assume the worst of him
 - Every mistake he made was scrutinized; not allowed to cry about it
@@ -20,7 +21,7 @@
 - Still has a residual instinct to hurt and punish himself whenever he makes a mistake or hurts others
 - Grew a friendly (sometimes not-so-friendly) rivalry with [[Characters/Playable Characters/Tychia Merlo-Anahí/Tychia Merlo-Anahí\|Tychia Merlo-Anahí]], decided to see who could become a renowned bounty hunter faster
 - Joined the [[Factions/Order of the Arbour\|Order of the Arbour]] and received [[Magic Items/Nagaiame’s Gifts/Sjörnur’s Portent\|Sjörnur’s Portent]] from [[Characters/The Pantheon/Nagaiame\|Nagaiame]]; grew very close to Sjornur (romantic in nature) during their partnership
-- Upon Lena's death, he begs [[Characters/The Pantheon/Sjörnur\|Sjörnur]] to revive her; Sjornur uses the elixir he stole from [[Characters/The Pantheon/Ksekamt\|Ksekamt]]; this elixir, the product of millennia worth of research (albeit imperfect), can revive a soul given the soul hasn't decayed too much; due to the odd rules surrounding Ksekamt and Ydarenaia's afterlife, [[Locations/Planes/Limerence\|Limerence]], it works on Lena
+- Upon Lena's death, he begs [[Characters/The Pantheon/Sjörnur\|Sjörnur]] to revive her; Sjornur uses the elixir he stole from [[Characters/The Pantheon/Ksekamt\|Ksekamt]]; this elixir, the product of millennia worth of research (albeit imperfect), can revive a soul given the soul hasn't decayed too much; due to the odd rules surrounding Ksekamt and Ydarenaia's afterlife, [[Locations/Planes/Afterlives/Limerence\|Limerence]], it works on Lena
 - Lena returns, but she is fundamentally changed; Pelayo immediately regrets it
 - Upon [[Characters/Playable Characters/Cortège/Cortège\|Cortège]]’s death, he begs the Order of the Arbour not to revive him, knowing what it was like for Lena; they outvote him and he runs away
 - Takes in an orphan, names them Nereo, and returns to Marzol
@@ -31,4 +32,4 @@
 >"Pelayo" is the Spanish derivative of the Greek name "Pelagius", meaning "of the sea", and "Ahogar" directly translates to "to drown" in Spanish.
 ## **Tags:**
 ---
-#Character #Set2 #PC #OotA #TheShatteredGod #TheCrabPact
+#Character #Set2 #PC #OotA #InTheAfterimage #TheCrabPact #Marzol 

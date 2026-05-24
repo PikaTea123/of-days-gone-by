@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/playable-characters/katherine-avaldi/katherine-avaldi/"}
+{"dg-publish":true,"permalink":"/characters/playable-characters/katherine-avaldi/katherine-avaldi/","dg-note-properties":{}}
 ---
 
 <font color="#eeece1"><u><strong><font color="#ffffff"><div class="epithet">The Porcelain Princess</div></font></strong></u></font>
@@ -15,11 +15,11 @@
 - Born to [[Characters/Side Characters/Selica Avaldi\|Selica Avaldi]], raised by [[Characters/Playable Characters/Naochi Avaldi/Naochi Avaldi\|Naochi Avaldi]]
 - Growing up, Naochi always told her that she must present herself beautifully so she could marry into higher standing/a comfortable lifestyle
 - Katherine, despite being only a teenager in elven eyes (early 30s), desperately tried to meet this expectation
-- Hears rumours of a [[Magic Items/The Pralucerna\|The Pralucerna]] held in the [[Locations/Tharin/Vantegramen\|Vantegramen]] treasury that would grant [[Characters/The Pantheon/Ryst\|Ryst]]'s blessing of beauty to anyone who drank from it
+- Hears rumours of a [[Magic Items/The Moll's Repast\|The Moll's Repast]] held in the [[Locations/Tharin/Vantegramen\|Vantegramen]] treasury that would grant [[Characters/The Pantheon/Ryst\|Ryst]]'s blessing of beauty to anyone who drank from it
 - Ran away from home to chase this rumour
 - After some carousing for information, she joined the [[Factions/Waxing Crescent Guild\|Waxing Crescent Guild]], which had recently gained a lot of favour with Vantegramen via their sponsorship during the war, allowing her access to a guild-run auction of some of the artifacts in the Vantegramen treasury, although none of the artifacts offered were what she was after
 - Using techniques Naochi taught her to keep Katherine safe in case someone came for them, Katherine was able to infiltrate the treasury
-- Due to her never actually having seen the teapot before, which was made of a dull metal and oddly shaped, she instead took the ornate porcelain [[Magic Items/The Moll's Repast\|The Moll's Repast]] which looked very similar to a teapot
+- Due to her never actually having seen the teapot before, which was made of a dull metal and oddly shaped, she instead took the ornate porcelain [[Magic Items/The Pralucerna\|Pralucerna]] which looked very similar to a teapot
 - This magic lamp was created by [[Characters/The Pantheon/Scaenatio\|Scaenatio]], containing a genie, mentally broken for the sake of Scaenatio's psychotic theatricality
 - Katherine, thinking this was what she had set off after, asked the genie to grant her Ryst's blessing of beauty, and the genie, conditioned to cruelty, made her into a porcelain doll as beautiful as Ryst's own creations
 - She lives as a hollow-eyed porcelain statue, face only able to change expression if no one is perceiving it, although the mechanism behind her ability to speak, see, or change expressions when not perceived is unknown
@@ -35,5 +35,5 @@
 >"Katherine" comes from the Greek "katharos", meaning pure, but can also be linked to "hekatere", meaning "each of the two", or even "aikia", meaning torture, alluding to her dark pact. "Avaldi" is meaningless.
 ## **Tags:**
 ---
-#Character #Set1 #PC #TheWCG #ThePermafrostWar 
+#Character #Set1 #PC #TheWaxingCrescentGuild #ThePermafrostWar #Vantegramen 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/playable-characters/iden-chrysos/iden-chrysos/"}
+{"dg-publish":true,"permalink":"/characters/playable-characters/iden-chrysos/iden-chrysos/","dg-note-properties":{}}
 ---
 
 <font color="#eeece1"><u><strong><font color="#ffffff"><div class="epithet">The Cosmic Anomaly</div></font></strong></u></font>
@@ -9,7 +9,7 @@
 
 |      | Ancestry | Background     | Class    | Subclass   | Age/S | Height | Aspect   |
 | ---- | -------- | -------------- | -------- | ---------- | ----- | ------ | -------- |
-| Titi | Plasmoid | Astral Drifter | Sorcerer | Wild Magic | 177F  | 5’7"   | Identity |
+| Titi | Plasmoid | Astral Drifter | Sorcerer | Wild Magic | 477F  | 5’7"   | Identity |
 ## **Backstory:**
 ---
 - Born on an asteroid, travelled through space for millennia
@@ -20,10 +20,11 @@
 - Feels so small in this world she knows so little about
 - Feels she can't get through the day on her own, changes personality/mask to a caricature to surpass challenges
 - Has a bunch of wildly anachronistic outfits that she switches between on a dime (cowboy, pirate, knight, ninja, etc.)
+- Joined the [[Factions/Cirque des Fées\|Cirque des Fées]] due to their naivete and curiosity
 ## **Etymology:**
 ---
 >When paired with her nickname "Titi", "Iden 'Titi' Chrysos" becomes a play on words of "identity crisis".
 ## **Tags:**
 ---
-#Character #Set2 #PC
+#Character #Set2 #PC #LeCirqueDesFées #Wydell 
 

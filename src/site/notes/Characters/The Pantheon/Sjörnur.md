@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/the-pantheon/sjoernur/"}
+{"dg-publish":true,"permalink":"/characters/the-pantheon/sjoernur/","dg-note-properties":{}}
 ---
 
 <font color="#eeece1"><u><strong><font color="#ffffff"><div class="epithet">Icon of the Abyss</div></font></strong></u></font>

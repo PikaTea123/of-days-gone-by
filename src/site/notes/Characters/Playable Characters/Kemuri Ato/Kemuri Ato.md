@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/playable-characters/kemuri-ato/kemuri-ato/"}
+{"dg-publish":true,"permalink":"/characters/playable-characters/kemuri-ato/kemuri-ato/","dg-note-properties":{}}
 ---
 
 <font color="#eeece1"><u><strong><font color="#ffffff"><div class="epithet">The Burning Palimpsest</div></font></strong></u></font>
@@ -30,5 +30,5 @@
 >"Kemuri Ato" or "煙後" in Japanese translates directly to "smoke trails".
 ## **Tags:**
 ---
-#Character #Set1 #PC 
+#Character #Set1 #PC #ChasingFire #Muejiza 
 

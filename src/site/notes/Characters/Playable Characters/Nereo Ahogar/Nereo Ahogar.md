@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/playable-characters/nereo-ahogar/nereo-ahogar/"}
+{"dg-publish":true,"permalink":"/characters/playable-characters/nereo-ahogar/nereo-ahogar/","dg-note-properties":{}}
 ---
 
 <font color="#eeece1"><u><strong><font color="#ffffff"><div class="epithet">The Abyss' Vengeance</div></font></strong></u></font>
@@ -9,10 +9,10 @@
 
 |       | Ancestry | Background | Class   | Subclass  | Age/S | Height | Aspect     |
 | ----- | -------- | ---------- | ------- | --------- | ----- | ------ | ---------- |
-| Nereo | Tabaxi   | Sailor     | Paladin | Vengeance | 25M   | 5'9"   | Repentance |
+| Nereo | Tabaxi   | Sailor     | Paladin | Vengeance | 31M   | 5'9"   | Repentance |
 ## **Backstory:**
 ---
->Nereo Ahogar is the grandson of the renowned adventurer, [[Characters/Playable Characters/Pelayo Ahogar/Pelayo Ahogar\|Pelayo Ahogar]], and was raised by Pelayo in the small coastal town of [[Locations/Tharin/Marzol\|Marzol]] for most of his life. During his childhood, Pelayo filled Nereo’s head with tall tales and epics about captains and pirates upon the great open waters, slaying doombeasts and navigating blustering typhoons, and Nereo was utterly entranced. Even as a little boy, Nereo knew he wanted to be captain.
+>Nereo Ahogar is the grandson of the renowned adventurer, [[Characters/Playable Characters/Pelayo Ahogar/Pelayo Ahogar\|Pelayo Ahogar]], and was raised by Pelayo in the small coastal town of [[Locations/Tharin/Marzol/Marzol\|Marzol]] for most of his life. During his childhood, Pelayo filled Nereo’s head with tall tales and epics about captains and pirates upon the great open waters, slaying doombeasts and navigating blustering typhoons, and Nereo was utterly entranced. Even as a little boy, Nereo knew he wanted to be captain.
 >
 >And so he did. Only, Nereo had never been a very patient man, and waiting until well into his adult years to become one of the greats didn’t mesh well with him. Instead, he figured that a few false documents and little white lies couldn’t hurt anybody, and with the renown of his grandfather as the wind behind his sails, he managed to obtain a boat and a captain license. With Pelayo having died 20 years prior, Nereo was all the more determined to follow in his grandfather’s footsteps. And so, he set forth on an expedition.
 >
@@ -22,5 +22,5 @@
 >"Nereo" is the Spanish form of "Nereus", the Greek god of the sea's bounty. "Ahogar" in Spanish translates directly to "to drown".
 ## **Tags:**
 ---
-#Character #Set1 #PC 
+#Character #Set1 #PC #Marzol 
 

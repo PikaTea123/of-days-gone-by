@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/magic-items/nagaiame-s-gifts/dunes-of-ksekamt/"}
+{"dg-publish":true,"permalink":"/magic-items/nagaiame-s-gifts/dunes-of-ksekamt/","dg-note-properties":{}}
 ---
 
 Stolen by [[Characters/The Pantheon/Nagaiame\|Nagaiame]] and [[Characters/The Pantheon/Vidatur\|Vidatur]], gifted to [[Characters/Side Characters/Ei Aivan\|Ei Aivan]]

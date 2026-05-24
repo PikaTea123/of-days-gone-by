@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/the-pantheon/vidatur/"}
+{"dg-publish":true,"permalink":"/characters/the-pantheon/vidatur/","dg-note-properties":{}}
 ---
 
 <font color="#eeece1"><u><strong><font color="#ffffff"><div class="epithet">Icon of the Wilds</div></font></strong></u></font>
@@ -37,7 +37,7 @@ Up on the moon lies lush yet silver-dusted thickets that dot the moon, where the
 
 ---
 ## Afterlife
-Vidatur is the overseer of two afterlives. The first is [[Locations/Planes/Jantikata\|Jantikata]], the afterlife for all animals who do not decide to join the Lunar Courts. It is a seemingly endless mosaic of silver pastures, lush forests, vibrant seas, and other bountiful habitats. It is a utopia for all animals, although people who are very heavily aligned with the wilderness, such as some druids and those who lived entire lives in the wilds, can find themselves in this afterlife as well. The second is [[Locations/Planes/Jagtmarker\|Jagtmarker]], Vidatur's main plane of occupancy, which consists of an eternal forest. Those who are sent here are doomed to an eternity of being hunted by Vidatur only to rematerialize and repeat the cycle, often as a punishment for being malevolently predatory in some way during their life.
+Vidatur is the overseer of two afterlives. The first is [[Locations/Planes/Afterlives/Jantikata\|Jantikata]], the afterlife for all animals who do not decide to join the Lunar Courts. It is a seemingly endless mosaic of silver pastures, lush forests, vibrant seas, and other bountiful habitats. It is a utopia for all animals, although people who are very heavily aligned with the wilderness, such as some druids and those who lived entire lives in the wilds, can find themselves in this afterlife as well. The second is [[Locations/Planes/Afterlives/Jagtmarker\|Jagtmarker]], Vidatur's main plane of occupancy, which consists of an eternal forest. Those who are sent here are doomed to an eternity of being hunted by Vidatur only to rematerialize and repeat the cycle, often as a punishment for being malevolently predatory in some way during their life.
 
 ---
 ## Relationships

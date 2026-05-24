@@ -1,15 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/characters/playable-characters/haskadar/haskadar/"}
+{"dg-publish":true,"permalink":"/characters/playable-characters/haskadar/haskadar/","dg-note-properties":{}}
 ---
 
 <font color="#eeece1"><u><strong><font color="#ffffff"><div class="epithet">The Belt of Venus</div></font></strong></u></font>
-> <center><strong></strong></center>
+> <center>"<strong></strong>"</center>
 ## **Details:**
 ---
 
 |          | Ancestry        | Background | Class   | Subclass   | Age/S | Height | Aspect |
 | -------- | --------------- | ---------- | ------- | ---------- | ----- | ------ | ------ |
-| Haskadar | Gold Dragonborn | Ruined     | Paladin | Redemption | 372M  | 5'6"   | Scorn  |
+| Haskadar | Gold Dragonborn | Ruined     | Paladin | Redemption | 371M  | 5'6"   | Scorn  |
 ## **Backstory:**
 ---
 - Yellow dragon, a very rare species
@@ -17,7 +17,7 @@
 - Haskadar made an oath to Nagaiame to follow that rule
 - Suddenly, Nagaiame dies and his magic is taken away, along with Nagaiame's gifted magic from the oath
 - One day, on his turn to go out hunting, his den is razed by [[Characters/Playable Characters/Mild Dissociation/Mild Dissociation\|Mild Dissociation]] and his mate and unborn eggs are killed
-- In a rage, he heads down to Mild Dissociation's village and burns it to the ground
+- In a rage, he heads down to [[Locations/Tharin/Anadrie/Allek\|Allek]] and burns it to the ground
 - For a long while, he falls into a depressive gloom of simply trying to exist and rarely leaves the particular river bank he decided to stay by, watching his reflection in the river
 - Eventually tries to drown himself in the river in guilt, both for being the only survivor and for killing so many in his raze of the town
 - [[Characters/The Pantheon/Scaenatio\|Scaenatio]] secretly decides to punish him for breaking his oath before he dies
@@ -33,5 +33,5 @@
 > "Haskadar" is a portmanteau of the Old Norse "Haskr" (hǫskr) meaning "faded" and the Hebrew "kadar" (קָדַר) meaning "to mourn" or "to darken".
 ## **Tags:**
 ---
-#Character #Set2 #PC #TheShatteredGod 
+#Character #Set2 #PC #InTheAfterimage #ChasingFire #Anadrie 
 

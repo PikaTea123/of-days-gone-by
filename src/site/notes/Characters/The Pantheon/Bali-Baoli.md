@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/the-pantheon/bali-baoli/"}
+{"dg-publish":true,"permalink":"/characters/the-pantheon/bali-baoli/","dg-note-properties":{}}
 ---
 
 <font color="#eeece1"><u><strong><font color="#ffffff"><div class="epithet">Icon of Bustle</div></font></strong></u></font>

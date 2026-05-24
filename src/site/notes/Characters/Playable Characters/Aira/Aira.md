@@ -1,15 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/characters/playable-characters/aira/aira/"}
+{"dg-publish":true,"permalink":"/characters/playable-characters/aira/aira/","dg-note-properties":{}}
 ---
 
 <font color="#eeece1"><u><strong><font color="#ffffff"><div class="epithet">The Suspended Aria</div></font></strong></u></font>
-> <center><strong></strong></center>
+> <center>"<strong></strong>"</center>
 ## **Details:**
 ---
 
 |      | Ancestry   | Background    | Class | Subclass  | Age/S | Height | Aspect  |
 | ---- | ---------- | ------------- | ----- | --------- | ----- | ------ | ------- |
-| Aira | Changeling | Guild Artisan | Bard  | Eloquence | 30F   | 5'6"   | Masking |
+| Aira | Changeling | Guild Artisan | Bard  | Eloquence | 44F   | 5'6"   | Masking |
 ## **Backstory:**
 ---
 - Was formerly a military supply manager/cook, dreamt of being an opera singer
@@ -28,5 +28,5 @@
 > "Aira" comes from Finnish "airut" meaning messenger, referencing how she feels eternally shoved into a supporting role. It's also "aria" scrambled.
 ## **Tags:**
 ---
-#Character #Set2 #PC #ThePermafrostWar
+#Character #Set2 #PC #ThePermafrostWar #Vantegramen
 

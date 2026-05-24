@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/playable-characters/dr-will-erneut/dr-will-erneut/"}
+{"dg-publish":true,"permalink":"/characters/playable-characters/dr-will-erneut/dr-will-erneut/","dg-note-properties":{}}
 ---
 
 <font color="#eeece1"><u><strong><font color="#ffffff"><div class="epithet">The Zealot of Ataraxis</div></font></strong></u></font>
@@ -12,7 +12,7 @@
 | Dr. Erneut | Human    | Archaeologist | Cleric | Peace    | 41M   | 5'10"  | Propriety |
 ## **Backstory:**
 ---
->Dr. Will Erneut is a professor at [[Locations/Tharin/Anadrie/Bellwood/Bellwood University\|Bellwood University]] and the head of the archaeology department. Well regarded in the scientific community for his archaeological discoveries and his activism for peace and unity between [[Locations/Tharin/Anadrie/Bellwood/Bellwood\|Bellwood]] and the surrounding area, Dr. Erneut is a pioneer in uncovering ancient artifacts and converting their powers into more easily usable forms, often inventing tools or weapons for anyone who commissions him, although the ethics of his commissioners has never really been a priority for him. One of these commissions was for the [[Factions/Cult of the Lead Swan\|Cult of the Lead Swan]], leading to the creation of [[Characters/Playable Characters/Kaioptych 1109/Kaioptych 1109\|Kaioptych 1109]] from the artifact [[Magic Items/Nagaiame’s Gifts/Living Immolation\|Living Immolation]], a weapon of mass destruction intended to be used in a terrorist attack on [[Locations/Tharin/Wydell/Wydell\|Wydell]]. It was during this commission that Dr. Will Erneut created his long-term goal: to collect each of the four artifacts bestowed upon the [[Factions/Order of the Arbour\|Order of the Arbour]] by the [[Characters/The Pantheon/Nagaiame\|Icon of Erosion, Nagaiame]]. 
+>Dr. Will Erneut is a professor at [[Locations/Tharin/Anadrie/Bellwood/Bellwood University\|Bellwood University]] and the head of the archaeology department. Well regarded in the scientific community for his archaeological discoveries and his activism for peace and unity between [[Locations/Tharin/Anadrie/Bellwood/Bellwood\|Bellwood]] and the surrounding area, Dr. Erneut is a pioneer in uncovering ancient artifacts and converting their powers into more easily usable forms, often inventing tools or weapons for anyone who commissions him, although the ethics of his commissioners has never really been a priority for him. One of these commissions was for the [[Factions/Cult of the Lead Swan\|Cult of the Lead Swan]], leading to the creation of [[Characters/Playable Characters/Kaioptych 1109/Kaioptych 1109\|Kaioptych 1109]] from the artifact [[Magic Items/Nagaiame’s Gifts/Living Immolation\|Living Immolation]], a weapon of mass destruction intended to be used in a terrorist attack on [[Locations/Tharin/Wydell/Wydell\|Wydell]]. It was during this commission that Dr. Will Erneut created his long-term goal: to collect each of the four artifacts bestowed upon the [[Factions/Order of the Arbour\|Order of the Arbour]] by [[Characters/The Pantheon/Nagaiame\|Nagaiame]]. 
 >
 >There was a legend that was whispered in the slums and the shadier taverns, behind the alleys and beneath the docks, that if all four artifacts were brought together, it would grant one wish to whoever achieved the feat, and Dr. Erneut was planning to use it to resurrect his wife. His wife, [[Characters/Side Characters/Ikka Meryls Erneut\|Ikka Meryls Erneut]], had died while giving birth to their daughter [[Characters/Playable Characters/Petla Erneut/Petla Erneut\|Petla Erneut]] when they were both age 25. This left Dr. Erneut as the sole caregiver to Petla. Since he could track the Living Immolation after his successful procurement of it, he quickly set off to find the other three. While Dr. Erneut was able to locate neither [[Magic Items/Nagaiame’s Gifts/Sjörnur’s Portent\|Sjörnur’s Portent]] nor the [[Magic Items/Nagaiame’s Gifts/Twicebound Echo\|Twicebound Echo]], he was able to locate the [[Magic Items/Nagaiame’s Gifts/Dunes of Ksekamt\|Dunes of Ksekamt]], which he stole from [[Characters/Side Characters/Ei Aivan\|Ei Aivan]]’s cabin in the night roughly a year after his first expedition for the Living Immolation. 
 >
@@ -22,5 +22,5 @@
 >"Erneut" in German translates to "again" or "anew", and "Will" alludes to "willpower".
 ## **Tags:**
 ---
-#Character #Set1 #PC #CotLS
+#Character #Set1 #PC #CotLS #Anadrie 
 

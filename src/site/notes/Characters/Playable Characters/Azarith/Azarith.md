@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/playable-characters/azarith/azarith/"}
+{"dg-publish":true,"permalink":"/characters/playable-characters/azarith/azarith/","dg-note-properties":{}}
 ---
 
 <font color="#eeece1"><u><strong><font color="#ffffff"><div class="epithet">The Fireworks Chaser</div></font></strong></u></font>
@@ -22,5 +22,5 @@
 >"Azar" means "fire" in Persian, alluding to his natural fixation with fire.
 ## **Tags:**
 ---
-#Character #Set1 #PC
+#Character #Set1 #PC #ChasingFire #Wydell
 

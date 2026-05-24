@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/playable-characters/suk-yeong-mun/suk-yeong-mun/"}
+{"dg-publish":true,"permalink":"/characters/playable-characters/suk-yeong-mun/suk-yeong-mun/","dg-note-properties":{}}
 ---
 
 <font color="#eeece1"><u><strong><font color="#ffffff"><div class="epithet">The Twice-Shot Messenger</div></font></strong></u></font>
@@ -9,7 +9,7 @@
 
 |           | Ancestry | Background         | Class  | Subclass   | Age/S | Height | Aspect   |
 | --------- | -------- | ------------------ | ------ | ---------- | ----- | ------ | -------- |
-| Suk-yeong | Aasimar  | Cloistered Scholar | Wizard | Abjuration | 26F   | 5'7"   | Delusion |
+| Suk-yeong | Aasimar  | Cloistered Scholar | Wizard | Abjuration | 28F   | 5'7"   | Delusion |
 ## **Backstory:**
 ---
 - Is a writer, obsessed with fantasy and heroics
@@ -28,5 +28,5 @@
 >Both "Suk" and "Yeong" come from hanja that mean "hero", and Mun comes from the character meaning "writing".
 ## **Tags:**
 ---
-#Character #Set2 #PC #ThePermafrostWar 
+#Character #Set2 #PC #ThePermafrostWar #Vantegramen 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/playable-characters/okiki/okiki/"}
+{"dg-publish":true,"permalink":"/characters/playable-characters/okiki/okiki/","dg-note-properties":{}}
 ---
 
 <font color="#eeece1"><u><strong><font color="#ffffff"><div class="epithet">The Sentinel of the Shattered God</div></font></strong></u></font>
@@ -27,10 +27,11 @@
 	- Tooth obtained
 	- Chasing after [[Characters/Playable Characters/Cortège/Cortège\|Cortège]] to get scales
 	- Have to get the blood from [[Characters/The Pantheon/Ksekamt\|Ksekamt]], who because of ideological differences with Nagaiame, often fought with him 
+- Joined the [[Factions/Cirque des Fées\|Cirque des Fées]] to find something new he could latch onto
 ## **Etymology:**
 ---
 >"Okiki" translates to "fame" or "prestige" in Yoruba.
 ## **Tags:**
 ---
-#Character #Set2 #PC #TheShatteredGod 
+#Character #Set2 #PC #InTheAfterimage #LeCirqueDesFées  #Muejiza 
 

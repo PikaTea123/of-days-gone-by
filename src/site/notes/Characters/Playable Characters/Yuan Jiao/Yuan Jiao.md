@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/playable-characters/yuan-jiao/yuan-jiao/"}
+{"dg-publish":true,"permalink":"/characters/playable-characters/yuan-jiao/yuan-jiao/","dg-note-properties":{}}
 ---
 
 <font color="#eeece1"><u><strong><font color="#ffffff"><div class="epithet">The Fading Corposant</div></font></strong></u></font>
@@ -22,5 +22,5 @@
 >"Yuàn Jiāo" or "愿焦" in Chinese is made of the characters that mean "wish" and "burnt". "Kuài" or "快" is the name of his horse, and it means "rapid".
 ## **Tags:**
 ---
-#Character #Set1 #PC #PtarmigyInn 
+#Character #Set1 #PC #PtarmigyInn #Anadrie 
 

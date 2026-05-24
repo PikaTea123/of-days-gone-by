@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/playable-characters/naochi-avaldi/naochi-avaldi/"}
+{"dg-publish":true,"permalink":"/characters/playable-characters/naochi-avaldi/naochi-avaldi/","dg-note-properties":{}}
 ---
 
 <font color="#eeece1"><u><strong><font color="#ffffff"><div class="epithet">The Wraith of the Banyan</div></font></strong></u></font>
@@ -22,5 +22,5 @@
 >"Naochi" is a portmanteau between a homophone of the English "now" and the Chinese "吃" (chī), meaning "to eat". "Avaldi" is meaningless.
 ## **Tags:**
 ---
-#Character #Set1 #PC #OotA #TheShatteredGod
+#Character #Set1 #PC #OotA #InTheAfterimage #Muejiza 
 

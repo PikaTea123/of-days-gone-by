@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/the-pantheon/ard-okaal/"}
+{"dg-publish":true,"permalink":"/characters/the-pantheon/ard-okaal/","dg-note-properties":{}}
 ---
 
 <font color="#eeece1"><u><strong><font color="#ffffff"><div class="epithet">Icon of Ruin</div></font></strong></u></font>

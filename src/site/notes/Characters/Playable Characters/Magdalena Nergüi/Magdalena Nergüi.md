@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/characters/playable-characters/magdalena-nerguei/magdalena-nerguei/"}
+{"dg-publish":true,"permalink":"/characters/playable-characters/magdalena-nerguei/magdalena-nerguei/","dg-note-properties":{}}
 ---
 
 <font color="#eeece1"><u><strong><font color="#ffffff"><div class="epithet">The Lady of Limbo</div></font></strong></u></font>
-><center><strong></strong></center>
+><center>"<strong></strong>"</center>
 ## **Details:**
 ---
 
@@ -11,12 +11,13 @@
 | ---- | ---------- | ----------- | --------- | --------- | ----- | ------ | ----------- |
 | Lena | Air Genasi | Haunted One | Artificer | Alchemist | 114F  | 5'9"   | Entitlement |
 ## **Backstory:**
-- Part of [[Factions/The Crab Pact\|The Crab Pact]]; brought the whole group together
+- Part of the [[Factions/Crab Pact\|Crab Pact]]; brought the whole group together
+- Was raised on entitlement 
 - Came from a rich family who never punished her for anything; continued to give into her demands to avoid having to parent her
 - People pulled away from her because of her entitled attitude, and her loneliness spurred spite against the world
 - The Crab Pact was the one group who cared enough to give her a reality check
 - Felt inadequate as she was never taught how to actually live; [[Characters/Playable Characters/Pelayo Ahogar/Pelayo Ahogar\|Pelayo Ahogar]] was the patient friend who guided her whenever she needed help and acted as her anchor, knowing how it felt to be judged for your gaps of knowledge
-- Stole money from her parents to furnish the group's secret seaside cave base, and later to help Tychia run away from home
+- Stole money from her parents to furnish the group's secret seaside cave base, the [[Locations/Tharin/Marzol/Crab Cave\|Crab Cave]], and later to help Tychia run away from home
 - When they found out, Lena was disowned practically on the spot; Eutro, Helle, and Zhyrgal took turns bringing her food as Lena was forced to squat in their hideout
 - As a sort of "soft payment", she learns to brew potions from materials she can gather from nature to help her friends in everyday life
 - Struggled a lot with not having everything at her disposal; with being powerless; still has a residual instinct to override the autonomy of others' decision-making if she feels she knows better
@@ -28,4 +29,4 @@
 >"Magdalena" is a variation of "Magdalene", referencing Mary Magdalene who, in the New Testament, witnessed Jesus' crucifixion and resurrection, and "Nergüi" means "no name" in Mongolian.
 ## **Tags:**
 ---
-#Character #Set2 #PC #TheCrabPact
+#Character #Set2 #PC #TheCrabPact #Marzol 

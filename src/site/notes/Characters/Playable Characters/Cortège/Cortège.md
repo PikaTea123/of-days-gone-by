@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/playable-characters/cortege/cortege/"}
+{"dg-publish":true,"permalink":"/characters/playable-characters/cortege/cortege/","dg-note-properties":{}}
 ---
 
 <font color="#eeece1"><u><strong><font color="#ffffff"><div class="epithet">The Cavalcade of Willows </div></font></strong></u></font>
@@ -9,7 +9,7 @@
 
 |         | Ancestry        | Background | Class | Subclass  | Age/S | Height | Aspect     |
 | ------- | --------------- | ---------- | ----- | --------- | ----- | ------ | ---------- |
-| Cortège | Reborn Tiefling | Rewarded   | Psion | Metamorph | 38M   | 6'0"   | Loneliness |
+| Cortège | Reborn Tiefling | Rewarded   | Psion | Metamorph | 94M   | 6'0"   | Loneliness |
 ## **Backstory:**
 ---
 - [[Factions/Order of the Arbour\|Order of the Arbour]] worked with Nagaiame to help prevent the Inkscourges from escaping his cave
@@ -28,10 +28,11 @@
 - While he made it very clear he doesn't want to be immortal, the others didn't want him to die again, so they kept him in the dark
 - He kept on pushing, but they can't tell him, and the group breaks apart
 - He desperately wants to die to see Ei and Pelayo along with his family again in the afterlife 
+- Joined the [[Factions/Cirque des Fées\|Cirque des Fées]] to pass the time and make some coin while he tries to figure out his next steps
 ## **Etymology:**
 ---
 >Cortège comes from the English word of the same name, which means a solemn procession, often referring to a funeral procession, alluding to the nature of his scale swarm and his themes of grieving over the living.
 ## **Tags:**
 ---
-#Character #Set1 #PC #OotA #TheShatteredGod 
+#Character #Set1 #PC #OrderOfTheArbour #TheShatteredGod #InTheAfterimage #LeCirqueDesFées #Muejiza
 

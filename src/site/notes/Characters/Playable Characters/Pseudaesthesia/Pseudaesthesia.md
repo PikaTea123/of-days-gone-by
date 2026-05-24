@@ -1,15 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/characters/playable-characters/pseudaesthesia/pseudaesthesia/"}
+{"dg-publish":true,"permalink":"/characters/playable-characters/pseudaesthesia/pseudaesthesia/","dg-note-properties":{}}
 ---
 
 <font color="#eeece1"><u><strong><font color="#ffffff"><div class="epithet">The Pathetic Fallacy</div></font></strong></u></font>
-><center> <strong></strong></center>
+><center>"<strong></strong>"</center>
 ## **Details:**
 ---
 
 |                | Ancestry | Background | Class  | Subclass | Age/S | Height | Aspect |
 | -------------- | -------- | ---------- | ------ | -------- | ----- | ------ | ------ |
-| Pseudaesthesia | Eladrin  | Feylost    | Cleric | Tempest  | 32F   | 6'4"   | Pity   |
+| Pseudaesthesia | Eladrin  | Feylost    | Cleric | Tempest  | 42F   | 6'0"   | Pity   |
 ## **Backstory:**
 ---
 - Got lost in the Feywild as a child
@@ -27,5 +27,5 @@
 >"Pseudaesthesia" is a word meaning "phantom pain", referring to how she tries to artificially make herself more miserable.
 ## **Tags:**
 ---
-#Character #Set2 #PC #ThePermafrostWar 
+#Character #Set2 #PC #ThePermafrostWar #Vantegramen 
 

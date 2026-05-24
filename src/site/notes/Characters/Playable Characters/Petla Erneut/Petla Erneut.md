@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/playable-characters/petla-erneut/petla-erneut/"}
+{"dg-publish":true,"permalink":"/characters/playable-characters/petla-erneut/petla-erneut/","dg-note-properties":{}}
 ---
 
 <font color="#eeece1"><u><strong><font color="#ffffff"><div class="epithet">The Shriek of a Thousand</div></font></strong></u></font>
@@ -31,10 +31,11 @@
 - Deciding to unseal it on a whim, she's terrified to encounter a hulking minotaur, [[Characters/Playable Characters/Nímaváros/Nímaváros\|Nímaváros]]
 - Nímaváros is actually quite kind, takes Petla along with her and vows to bring her to Kemuri Ato
 - Petla is now determined to deliver the letter to Kemuri while remaining hidden from her father, also helping Nímaváros in combat whenever she can
+- Joined the [[Factions/Cirque des Fées\|Cirque des Fées]] to try and find Kemuri
 ## **Etymology:**
 ---
 >"Petla" comes from the Polish "pętla", meaning loop. "Erneut" in German translates to "again" or "anew".
 ## **Tags:**
 ---
-#Character #Set1 #PC 
+#Character #Set1 #PC #LeCirqueDesFées #Anadrie 
 

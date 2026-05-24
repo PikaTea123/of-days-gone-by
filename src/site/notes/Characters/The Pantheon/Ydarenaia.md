@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/the-pantheon/ydarenaia/"}
+{"dg-publish":true,"permalink":"/characters/the-pantheon/ydarenaia/","dg-note-properties":{}}
 ---
 
 <font color="#eeece1"><u><strong><font color="#ffffff"><div class="epithet">Icon of Harmony</div></font></strong></u></font>
@@ -30,7 +30,7 @@ Ydarenaia, as the Icon of Harmony, rules over:
 
 ---
 ## Afterlife
-[[Locations/Planes/Limerence\|Limerence]]
+[[Locations/Planes/Afterlives/Limerence\|Limerence]]
 
 ---
 ## Relationships

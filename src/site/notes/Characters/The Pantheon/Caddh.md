@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/the-pantheon/caddh/"}
+{"dg-publish":true,"permalink":"/characters/the-pantheon/caddh/","dg-note-properties":{}}
 ---
 
 <font color="#eeece1"><u><strong><font color="#ffffff"><div class="epithet">Icon of Reprieve</div></font></strong></u></font>

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/playable-characters/tychia-merlo-anahi/tychia-merlo-anahi/"}
+{"dg-publish":true,"permalink":"/characters/playable-characters/tychia-merlo-anahi/tychia-merlo-anahi/","dg-note-properties":{}}
 ---
 
 <font color="#eeece1"><u><strong><font color="#ffffff"><div class="epithet">The Coral Gargoyle</div></font></strong></u></font>
@@ -12,10 +12,12 @@
 | Tychia | Harengon | Harborfolk | Barbarian | Storm Herald | 112F  | 5'3"   | Anger  |
 ## **Backstory:**
 ---
+- Part of the [[Factions/Crab Pact\|Crab Pact]]
+- Was raised on anger 
 - Family always antagonizing her for their struggles; constantly scolded her for wasting their resources and making mistakes
 - She always fought back and became increasingly aggressive as she got older
 - Absolutely couldn't stand [[Characters/Playable Characters/Magdalena Nergüi/Magdalena Nergüi\|Magdalena Nergüi]]'s entitlement because she felt she had everything and yet still asked for more; consequently put her in opposition with [[Characters/Playable Characters/Pelayo Ahogar/Pelayo Ahogar\|Pelayo Ahogar]]
-- Still, she appreciated the solace that the [[Factions/The Crab Pact\|The Crab Pact]] gave her, and she grew to care about Lena eventually despite always antagonizing her
+- Still, she appreciated the solace that the [[Factions/Crab Pact\|Crab Pact]] gave her, and she grew to care about Lena eventually despite always antagonizing her
 - Grew a deep friendship with [[Characters/Playable Characters/Zhyrgal Demasi/Zhyrgal Demasi\|Zhyrgal Demasi]] due to them often being out of the house to escape their bad home lives; Tychia leads Zhyrgal on adventures and they go on play missions of espionage and exploration; cements in Tychia's mind that she wants to be an adventurer
 - Still has a residual instinct to insult and antagonize others when she feels threatened
 - In naive kid fashion, she listens to the conch shell to know if their friend group will stay intact into adulthood; lives with the curse for most of her life, even as she adventures; staving it off through sheer willpower; rage causes infection to spread faster
@@ -31,4 +33,4 @@
 >"Tychia" comes from the Greek "tyche" (Τύχη), meaning fate. "Merlo" comes from the Latin "merulo", meaning blackbird, which are often bad omens, and "Anahí" comes from the Guarani legend of a woman who was burned at the stake by conquistadors and then turned into a cockspur coral tree.
 ## **Tags:**
 ---
-#Character #Set2 #PC #TheCrabPact
+#Character #Set2 #PC #TheCrabPact #Marzol 

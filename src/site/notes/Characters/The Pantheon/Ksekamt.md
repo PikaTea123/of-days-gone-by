@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/the-pantheon/ksekamt/"}
+{"dg-publish":true,"permalink":"/characters/the-pantheon/ksekamt/","dg-note-properties":{}}
 ---
 
 <font color="#eeece1"><u><strong><font color="#ffffff"><div class="epithet">Icon of Plenty</div></font></strong></u></font>
@@ -33,7 +33,7 @@ Ksekamt, as the Icon of Plenty, rules over:
 ---
 ## Relationships
 - Always at odds with [[Characters/The Pantheon/Nagaiame\|Nagaiame]]
-- [[Locations/Planes/Limerence\|Limerence]]
+- [[Locations/Planes/Afterlives/Limerence\|Limerence]]
 - [[Characters/The Pantheon/Ydarenaia\|Ydarenaia]]
 
 ---
