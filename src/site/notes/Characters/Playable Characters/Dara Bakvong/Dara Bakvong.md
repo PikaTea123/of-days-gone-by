@@ -19,8 +19,8 @@
 >During the era of the Ptarmigy Inn, Dara spent the years wandering the world and mapping the stars, which he’d used as a source of guidance in place of the cult members. Yet still, he kept coming back to the inn week after week to spend time with the others. Eventually, despite his love for the stars, Dara found himself leaving the inn less and less in order to be closer to Yuan Jiao, deciding that he was content with just watching the stars from the roof of the inn. This worsened to the point that he lived entirely for Yuan Jiao, even if Yuan Jiao didn’t know it. Everything was well for a while, but it would all change during the [[Locations/Tharin/Anadrie/Ptarmigy/Ptarmigy Inn#The Ptarmigy Inn Tragedy\|Ptarmigy Inn Tragedy]], where Dara was in the basement of the Ptarmigy Inn when it burnt down. Although he was able to escape without any major injuries, the carbon monoxide poisoning gave him amnesia, unable to remember the cult, Kaio, or Yuan Jiao. Now he wanders, trying desperately to piece together the life he once lived from the little information he has. Mainly, his Cae Rong manifestation has returned in an entirely new form, shaped into spectral arms that resemble Yuan Jiao’s. Perhaps if the smoke hadn’t weakened his vision, he’d be able to see all the puzzle pieces that hang around him. Or maybe this is just what he needs to let go and restart anew.
 ## **Etymology:**
 ---
-> "Dara" means "star" in Khmer, and "Bakvong" is a fusion of "Bak", meaning "to break" and "Vong", meaning "family".
+> "Dara" comes from Khmer *tara*, meaning "star" , and "Bakvong" is a fusion of *bak*, meaning "to break" and *vong*, meaning "family".
 ## **Tags:**
 ---
-#Character #Set1 #PC #PtarmigyInn #CotLS
+#Character #Set1 #PC #PtarmigyInn #CotLS #Anadrie
 

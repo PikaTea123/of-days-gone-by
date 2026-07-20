@@ -40,6 +40,9 @@ Nagaiame, as the Icon of Erosion, ruled over:
 ---
 ## Relationships
 
+---
+## Etymology
+>"Nagaiame" translates in Japanese to "the long rain", "nagai" (長い) meaning "long" and "ame" (雨) meaning "rain", representing their domain of erosion.
 
 ---
 #Icon #RuleofLoss 

@@ -25,7 +25,7 @@
 - Now trying to find a way to avenge Helle while dealing with the chaos that came with taking Helle's identity
 ## **Etymology:**
 ---
-> "Aira" comes from Finnish "airut" meaning messenger, referencing how she feels eternally shoved into a supporting role. It's also "aria" scrambled.
+> "Aira" comes from Finnish *airut* meaning "messenger", referencing how she feels eternally shoved into a supporting role. It's also "aria" scrambled.
 ## **Tags:**
 ---
 #Character #Set2 #PC #ThePermafrostWar #Vantegramen

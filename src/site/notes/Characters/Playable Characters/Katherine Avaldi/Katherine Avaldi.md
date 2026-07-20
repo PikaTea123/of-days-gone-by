@@ -32,7 +32,7 @@
 - Only, Scaenatio thought that this mission could do with a few more tribulations, and the war between Vantegramen and [[Locations/Tharin/Wydell/Wydell\|Wydell]] could serve as an exciting tribulation. Perhaps if she had a certain disciple already running through the warzones to stir up some trouble...
 ## **Etymology:**
 ---
->"Katherine" comes from the Greek "katharos", meaning pure, but can also be linked to "hekatere", meaning "each of the two", or even "aikia", meaning torture, alluding to her dark pact. "Avaldi" is meaningless.
+>"Katherine" comes from Greek *katharos*, meaning pure, but can also be linked to *hekatere*, meaning "each of the two", or even *aikia*, meaning torture, alluding to her dark pact. "Avaldi" evokes classical Italian nobility.
 ## **Tags:**
 ---
 #Character #Set1 #PC #TheWaxingCrescentGuild #ThePermafrostWar #Vantegramen 

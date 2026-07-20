@@ -34,6 +34,9 @@ Caddh, as the Icon of Reprieve, rules over:
 ---
 ## Relationships
 
+---
+## Etymology
+>"Caddh" uses soft, almost whispering consonants to convey a sense of stable yet sombre stillness.
 
 ---
 #Icon

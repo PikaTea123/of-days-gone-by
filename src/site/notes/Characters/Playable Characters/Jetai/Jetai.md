@@ -31,7 +31,7 @@
 - She now recharts all the areas they've adventured to and all the spots they've made memories in, using her newfound powers to protect them, holding on to the idea that she can save her husband
 ## **Etymology:**
 ---
->"Jetai" is a butchering of the French "j'étais" meaning "I was", and "Àtoi" is a truncated version of "à toi" meaning "to you" or "yours". 
+>"Jetai" is a butchering of the French *j'étais* meaning "I was", and "Àtoi" is a truncated version of "à toi" meaning "to you" or "yours". 
 ## **Tags:**
 ---
-#Character #Set3 #PC #InTheAfterimage #Muejiza 
+#Character #Set3 #PC #InTheAfterimage #Wydell

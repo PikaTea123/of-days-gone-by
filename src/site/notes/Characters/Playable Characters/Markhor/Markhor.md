@@ -26,7 +26,7 @@
 - His ability to know about future events has led to him taking on more responsibility than he should be forced to handle; his journey is able learning to define the boundaries for himself
 ## **Etymology:**
 ---
->"Markhor" comes from "snake eater" in Persian.
+>"Markhor" from Persian *mâr* (مار), meaning "snake", and *khor* (‏خور‎), meaning "eater".
 ## **Tags:**
 ---
-#Character #Set3 #PC #InTheAfterimage #TheShatteredGod #Muejiza 
+#Character #Set4 #PC #InTheAfterimage #TheShatteredGod #Muejiza 

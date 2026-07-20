@@ -7,9 +7,9 @@
 ## **Details:**
 ---
 
-|         | Ancestry | Background | Class | Subclass | Age/S | Height | Aspect  |
-| ------- | -------- | ---------- | ----- | -------- | ----- | ------ | ------- |
-| Zhyrgal | Tiefling | Criminal   | Psion | Telepath | 111F  | 5'6"   | Neglect |
+|         | Ancestry | Background | Class    | Subclass      | Age/S | Height | Aspect  |
+| ------- | -------- | ---------- | -------- | ------------- | ----- | ------ | ------- |
+| Zhyrgal | Tiefling | Criminal   | Sorcerer | Aberrant Mind | 111F  | 5'8"   | Neglect |
 ## **Backstory:**
 ---
 - Part of the [[Factions/Crab Pact\|Crab Pact]]
@@ -20,13 +20,13 @@
 - The Crab Pact was her one solace during her childhood
 - Had parents who worked near [[Characters/Playable Characters/Magdalena Nergüi/Magdalena Nergüi\|Magdalena Nergüi]]'s laboratory and perished in the resulting explosion; felt a bit of animosity towards Lena for causing the accident, but spent much of her younger years feeling guilty that she didn't feel as sad as she felt she was obligated to feel for her parents; became an assassin to figure out what was broken in her that made her so blasé to death; wandered the warzones of [[Locations/Tharin/Vantegramen\|Vantegramen]] to try and recreate the feelings she should have felt for her parents' death
 - She found solace in weaving and making silk clothing; joined the Waxing Crescent Guild and, through lots of hard work, managed to climb her way into high respect
-- Helped source adventuring gear for [[Characters/Playable Characters/Pelayo Ahogar/Pelayo Ahogar\|Pelayo Ahogar]] and [[Characters/Playable Characters/Tychia Merlo-Anahí/Tychia Merlo-Anahí\|Tychia Merlo-Anahí]] through the Waxing Crescent Guild; was the one who bought the magical artifacts that they found on their adventures and fed them into the market
+- Helped source adventuring gear for [[Characters/Playable Characters/Pelayo Ayogar/Pelayo Ayogar\|Pelayo Ayogar]] and [[Characters/Playable Characters/Tychia Merlo-Anahí/Tychia Merlo-Anahí\|Tychia Merlo-Anahí]] through the Waxing Crescent Guild; was the one who bought the magical artifacts that they found on their adventures and fed them into the market
 - One day, [[Characters/Side Characters/Helle Agnes\|Helle Agnes]] approaches her with the Runenbijl and tasks her with keeping it safe.
-- The [[Locations/Tharin/Marzol/Lapisean Ocean/Surna-Yele\|Surna-Yele]] capture Zhyrgal and, to buy herself time, she "sells out" Pelayo. Zhyrgal books it to Vantegramen and uses her good standing in the [[Factions/Waxing Crescent Guild\|Waxing Crescent Guild]] to put Runenbijl under royal protection, although the severity of this request isn't conveyed very well, and the king instead displays it in the main area for its beauty
+- The [[Factions/Surna-Yele\|Factions/Surna-Yele]] capture Zhyrgal and, to buy herself time, she "sells out" Pelayo. Zhyrgal books it to Vantegramen and uses her good standing in the [[Factions/Waxing Crescent Guild\|Waxing Crescent Guild]] to put Runenbijl under royal protection, although the severity of this request isn't conveyed very well, and the king instead displays it in the main area for its beauty
 - Zhyrgal is now on the run from the police who suspect her of killing Pelayo
 ## **Etymology:**
 ---
->"Zhyrgal" means "happiness" in Kyrgyz, and "Demasi" comes from the Spanish "demasiado", meaning "too much".
+>"Zhyrgal" means "happiness" in Kyrgyz, and "Demasi" is derived from Spanish *demasiado*, meaning "too much".
 ## **Tags:**
 ---
-#Character #Set2 #PC #TheCrabPact #TheWaxingCrescentGuild #Marzol 
+#Character #Set2 #PC #TheCrabPact #TheWaxingCrescentGuild #Marizol 

@@ -28,7 +28,7 @@
 - Now on a journey for revenge, although is this cycle truly what he wants to perpetuate? Can he let go?
 ## **Etymology:**
 ---
-> As on the nose as you can get.
+> Eysenck is a reference to the psychologist of the same name.
 ## **Tags:**
 ---
 #Character #Set2 #PC #Anadrie 

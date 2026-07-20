@@ -7,16 +7,16 @@
 ## **Details:**
 ---
 
-|         | Ancestry        | Background | Class | Subclass  | Age/S | Height | Aspect     |
-| ------- | --------------- | ---------- | ----- | --------- | ----- | ------ | ---------- |
-| Cortège | Reborn Tiefling | Rewarded   | Psion | Metamorph | 94M   | 6'0"   | Loneliness |
+|         | Ancestry        | Background | Class  | Subclass    | Age/S | Height | Aspect     |
+| ------- | --------------- | ---------- | ------ | ----------- | ----- | ------ | ---------- |
+| Cortège | Reborn Tiefling | Rewarded   | Ranger | Swarmkeeper | 94M   | 6'0"   | Loneliness |
 ## **Backstory:**
 ---
 - [[Factions/Order of the Arbour\|Order of the Arbour]] worked with Nagaiame to help prevent the Inkscourges from escaping his cave
 - Each is given an artifact as payment before the final battle
 - 1st is [[Characters/Playable Characters/Naochi Avaldi/Naochi Avaldi\|Naochi Avaldi]], who gets the Twicebound Echo, the cloning artifact
 - 2nd is [[Characters/Side Characters/Ei Aivan\|Ei Aivan]], who gets the Dunes of Ksekamt, the age reversal artifact to restore her to her prime
-- 3rd is [[Characters/Playable Characters/Pelayo Ahogar/Pelayo Ahogar\|Pelayo Ahogar]], who gets Sjörnur's Portent, the blessing of and the ability to commune with Sjörnur
+- 3rd is [[Characters/Playable Characters/Pelayo Ayogar/Pelayo Ayogar\|Pelayo Ayogar]], who gets Sjörnur's Portent, the blessing of and the ability to commune with Sjörnur
 - 4th is the one we now know as Cortège, given [[Magic Items/Nagaiame’s Gifts/Living Immolation\|Living Immolation]], a destructive fire force who he grew quite attached to
 - Cortège died in this final battle despite their success in holding back the Inkscourges
 - Cortège, right before his death, told Living Immolation to escape and live its own life, emphasizing the value of freedom and autonomy
@@ -29,10 +29,11 @@
 - He kept on pushing, but they can't tell him, and the group breaks apart
 - He desperately wants to die to see Ei and Pelayo along with his family again in the afterlife 
 - Joined the [[Factions/Cirque des Fées\|Cirque des Fées]] to pass the time and make some coin while he tries to figure out his next steps
+- Cortege joined the circus on a whim, something to take his mind off of his inability to learn of what happened and also a way to make some coin since his adventuring career has seemingly ended. Of course he sees the exploitation, and he must play the hero. Yet still, he can't help but wonder what his life might be like under the companionable peace of the circus life. His arc can only resolve once he realizes that it's not his responsibility to fix it all. After fighting for so long, it is his right to decide how he lives. The others can leave--he should not stop them--but they should not hold him back from living his life either. It hurts no one, after all. If they try to hold the group together too hard, it very might collapse under their ideological differences. Perhaps they haven't remembered that goodbyes don't have to be forever.
 ## **Etymology:**
 ---
 >Cortège comes from the English word of the same name, which means a solemn procession, often referring to a funeral procession, alluding to the nature of his scale swarm and his themes of grieving over the living.
 ## **Tags:**
 ---
-#Character #Set1 #PC #OrderOfTheArbour #TheShatteredGod #InTheAfterimage #LeCirqueDesFées #Muejiza
+#Character #Set4 #PC #OrderOfTheArbour #TheShatteredGod #InTheAfterimage #LeCirqueDesFées #Muejiza
 

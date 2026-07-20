@@ -36,6 +36,9 @@ Ergehen, as the Icon of the Horizon, rules over:
 ---
 ## Relationships
 
+---
+## Etymology
+>"Ergehen" translates directly to "go forth" in German, referring to Ergehen's constant desire to move forward and grab for more.
 
 ---
 #Icon #TheIndulgenceTrio 

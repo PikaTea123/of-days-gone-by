@@ -38,7 +38,7 @@
 - Still, days of keeping up his happy facade are beginning to weigh him down, especially as their journey leads them against the Vantegramen-Wydell War.
 ## **Etymology:**
 ---
-> "Elroi" means "God who sees me" in Hebrew, from אֵל (ʾel) "God" and רָאָה (raʾa) "to see". Beauregard comes from French "beau" meaning "beautiful" and "regard" meaning "look" or "aspect".
+> "Elroi" means "God who sees me" in Hebrew, from אֵל (ʾel) "God" and רָאָה (raʾa) "to see". Beauregard comes from French *beau* meaning "beautiful" and *regard* meaning "look" or "aspect".
 ## **Tags:**
 ---
 #Character #Set3 #PC #TheShatteredGod #ThePermafrostWar #TheWaxingCrescentGuild  #Vantegramen 

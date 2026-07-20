@@ -30,7 +30,7 @@
 - Star anise can induce seizures in too high amounts; Guilloché is likely nearing some limit
 ## **Etymology:**
 ---
->"Guilloché" is a a decorative technique in which a very precise, intricate, and repetitive pattern is mechanically engraved into an underlying material via engine turning, often used on pocket watches. Maréchal is a reference to Marshall Rosenberg, the creator of NVC in which the Jackal is used as a metaphor for self judgement and criticism.
+>"Guilloché" is a decorative technique in which a very precise, intricate, and repetitive pattern is mechanically engraved into an underlying material via engine turning, often used on pocket watches. Maréchal is a reference to Marshall Rosenberg, the creator of NVC in which the Jackal is used as a metaphor for self judgement and criticism.
 ## **Tags:**
 ---
 #Character #Set3 #PC #AntiIconCoalition #Anadrie  

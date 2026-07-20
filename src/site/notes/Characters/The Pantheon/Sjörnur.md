@@ -33,7 +33,12 @@ Sjörnur, as the Icon of the Abyss, rules over:
 
 ---
 ## Relationships
-Sjornur is friends with Vidatur due to their celestial station and Nagaiame due to their shared draconic natures
+Sjörnur is friends with Vidatur due to their celestial station and Nagaiame due to their shared draconic natures
+
+---
+## Etymology
+>"Sjörnur" is an Icelandic portmanteau of "sjö" meaning seven, "stjörnur" meaning "stars", and "sjór" meaning "sea", referring to Sjörnur being commonly mistaken as a seven starred constellation, as well as being both ruler of space and the sea.
+
 
 ---
 #Icon #RuleofLoss 

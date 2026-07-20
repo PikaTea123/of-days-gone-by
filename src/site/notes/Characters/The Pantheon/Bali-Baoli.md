@@ -33,6 +33,9 @@ Bali-Baoli, as the Icon of Bustle, rules over:
 ---
 ## Relationships
 
+---
+## Etymology
+>"Bali-Baoli" uses reduplication and rounded sounding consonants and vowels to convey a sense of friendliness and bubbliness.
 
 ---
 #Icon

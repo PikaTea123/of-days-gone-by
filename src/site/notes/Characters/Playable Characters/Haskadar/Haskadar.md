@@ -21,7 +21,7 @@
 - For a long while, he falls into a depressive gloom of simply trying to exist and rarely leaves the particular river bank he decided to stay by, watching his reflection in the river
 - Eventually tries to drown himself in the river in guilt, both for being the only survivor and for killing so many in his raze of the town
 - [[Characters/The Pantheon/Scaenatio\|Scaenatio]] secretly decides to punish him for breaking his oath before he dies
-- Transforms him into a dragonborn and directs him to [[Characters/Playable Characters/Kemuri Ato/Kemuri Ato\|Kemuri Ato]] and [[Characters/Playable Characters/Azarith/Azarith\|Azarith]] to travel alongside them
+- Transforms him into a dragonborn and directs him to [[Characters/Playable Characters/Kemuri Atezan/Kemuri Atezan\|Kemuri Atezan]] and [[Characters/Playable Characters/Azarith/Azarith\|Azarith]] to travel alongside them
 - Haskadar, under the impression that it was the ghost of Nagaiame giving him one final chance at redemption, decides to continue his oath despite Nagaiame no longer living
 - The power of his oath is so strong that it is able to power itself
 - He takes it upon himself to guide the two young travellers and impart them his wisdom while trying to find a way to return to his true form
@@ -30,7 +30,7 @@
 
 ## **Etymology:**
 ---
-> "Haskadar" is a portmanteau of the Old Norse "Haskr" (hǫskr) meaning "faded" and the Hebrew "kadar" (קָדַר) meaning "to mourn" or "to darken".
+> "Haskadar" is a portmanteau of the Old Norse *haskr* (hǫskr) meaning "faded" and the Hebrew *kadar* (קָדַר) meaning "to mourn" or "to darken".
 ## **Tags:**
 ---
 #Character #Set2 #PC #InTheAfterimage #ChasingFire #Anadrie 

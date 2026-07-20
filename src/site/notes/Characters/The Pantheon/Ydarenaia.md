@@ -37,4 +37,8 @@ Ydarenaia, as the Icon of Harmony, rules over:
 [[Characters/The Pantheon/Ksekamt\|Ksekamt]]
 
 ---
+## Etymology
+>"Ydarenaia" uses a lot of vowels and soft sounds to create a mystical, almost dreamy feeling name.
+
+---
 #Icon #RuleofLoss 

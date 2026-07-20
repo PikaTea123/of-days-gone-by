@@ -37,4 +37,9 @@ Ksekamt, as the Icon of Plenty, rules over:
 - [[Characters/The Pantheon/Ydarenaia\|Ydarenaia]]
 
 ---
+## Etymology
+>"Ksekamt" is a portmanteau of the Khmer "ksekam" (កសិកម្ម) meaning agriculture and "amt" (អមតៈ), although the pronunciation is wildly anglicized. 
+
+
+---
 #Icon #RuleofLoss

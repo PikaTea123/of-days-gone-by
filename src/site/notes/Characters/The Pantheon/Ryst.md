@@ -35,6 +35,9 @@ Ryst, as the Icon of Awe, rules over:
 ---
 ## Relationships
 
+---
+## Etymology
+>"Ryst" translates to "shake" or "shiver" in Swedish, referring to his domain of both fear and awe.
 
 ---
 #Icon

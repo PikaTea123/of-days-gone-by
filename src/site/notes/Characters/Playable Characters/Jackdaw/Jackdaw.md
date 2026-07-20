@@ -7,9 +7,9 @@
 ## **Details:**
 ---
 
-|         | Ancestry  | Background | Class | Subclass   | Age/S | Height | Aspect |
-| ------- | --------- | ---------- | ----- | ---------- | ----- | ------ | ------ |
-| Jackdaw | Aarakocra | Folk Hero  | Psion | Psi Warper | 29M   | 5'9"   | Agency |
+|         | Ancestry  | Background | Class   | Subclass    | Age/S | Height | Aspect |
+| ------- | --------- | ---------- | ------- | ----------- | ----- | ------ | ------ |
+| Jackdaw | Aarakocra | Folk Hero  | Fighter | Psi Warrior | 29M   | 5'9"   | Agency |
 ## **Backstory:**
 ---
 - Born into the Ripper family, with extraordinary powers and emerald feathers instead of his parents' black feathers
@@ -34,4 +34,4 @@
 >"Jackdaw" references the bird of the same name, and his full name is a pun on "Jack the Ripper".
 ## **Tags:**
 ---
-#Character #Set3 #PC #InTheAfterimage #TheShatteredGod #Muejiza 
+#Character #Set4 #PC #InTheAfterimage #TheShatteredGod #Muejiza 

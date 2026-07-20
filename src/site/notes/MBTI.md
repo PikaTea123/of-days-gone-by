@@ -16,19 +16,19 @@ Guilloche Maréchal: INFJ
 Whisp: INFJ  
 Eutrophios Tengiz: INFJ
 
-Suk-yeong Mun: ENFP  
+Sekya Munn: ENFP  
 Kaioptych 1109: ENFP  
 Jackdaw: ENFP  
 Unn Oscern: INFP  
 Pseudaesthesia: INFP  
 Beo: INFP
 
-Fiore: ESTJ  
+Fabris: ESTJ  
 Magdalena Nergui: ESTJ  
 Yuan Jiao: ESTJ  
 Naochi Avaldi: ISTJ  
-Cassiopeia DuPont: ISTJ  
-Nkem Abioye: ISTJ
+Cassia DuPont: ISTJ  
+Nikem Abioye: ISTJ
 
 Cortege: ENTP  
 Basset: ENTP  
@@ -51,7 +51,7 @@ Rei: INTJ
 Ei Aivan: INTJ  
 
 Katherine Avaldi: ESFP  
-Kemuri Ato: ESFP  
+Kemuri Atezan: ESFP  
 Dynamo: ISFP  
 Dara Bakvong: ISFP  
 Pelayo Ahogar: ISFP

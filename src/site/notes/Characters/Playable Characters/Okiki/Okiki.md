@@ -28,6 +28,7 @@
 	- Chasing after [[Characters/Playable Characters/Cortège/Cortège\|Cortège]] to get scales
 	- Have to get the blood from [[Characters/The Pantheon/Ksekamt\|Ksekamt]], who because of ideological differences with Nagaiame, often fought with him 
 - Joined the [[Factions/Cirque des Fées\|Cirque des Fées]] to find something new he could latch onto
+- Okiki joins because he was scouted on the streets, and without a base to protect, he feels completely lost. Indeed, the structure is something he craves, but not necessarily something he needs. When one lives on devotion their whole life, how do they learn what it's like to live for yourself? Especially when your two goals diverge your two most important loyalties. His arc will resolve once he learns to let go of the past. Nagaiame was the Icon of Erosion. Perhaps Okiki needs to learn that nothing lasts forever, and once he sees the present, he might learn to live for himself.
 ## **Etymology:**
 ---
 >"Okiki" translates to "fame" or "prestige" in Yoruba.

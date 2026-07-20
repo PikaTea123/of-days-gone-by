@@ -4,12 +4,12 @@
 
 Upright:
 0. The Fool - Iden Chrysos
-1. The Magician - Suk-yeong Mun
+1. The Magician - Sekya Munn
 2. The High Priestess - Ligita
 3. The Empress - Rei
 4. The Emperor - Unn Oscern
 5. The Hierophant - Guilloche Maréchal
-6. The Lovers - Fiore
+6. The Lovers - Fabris
 7. The Chariot - Okiki
 8. Strength - Katherine Avaldi
 9. The Hermit - Whisp
@@ -17,12 +17,12 @@ Upright:
 11. Justice - Nimavaros
 12. The Hanged Man - Naochi Avaldi
 13. Death - Cortege
-14. Temperance - Cassiopeia DuPont
+14. Temperance - Cassia DuPont
 15. The Devil - Elroi Beauregard
-16. The Tower - Nkem Abioye
+16. The Tower - Nikem Abioye
 17. The Star - Haskadar
 18. The Moon - Azarith
-19. The Sun - Kemuri Ato
+19. The Sun - KeNikem Atezan
 20. Judgement - Nereo Ahogar
 21. The World - Ixila & Basset
 

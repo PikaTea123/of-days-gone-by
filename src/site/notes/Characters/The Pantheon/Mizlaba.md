@@ -35,6 +35,9 @@ Mizlaba, as the Icon of the Expanse, rules over:
 ---
 ## Relationships
 
+---
+## Etymology
+>"Mizlaba" uses soft and flowing consonants to evoke an almost empty sound, highlighting their domain of empty accumulation.
 
 ---
 #Icon #TheIndulgenceTrio 

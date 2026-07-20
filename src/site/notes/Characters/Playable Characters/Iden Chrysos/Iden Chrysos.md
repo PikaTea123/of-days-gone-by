@@ -9,7 +9,7 @@
 
 |      | Ancestry | Background     | Class    | Subclass   | Age/S | Height | Aspect   |
 | ---- | -------- | -------------- | -------- | ---------- | ----- | ------ | -------- |
-| Titi | Plasmoid | Astral Drifter | Sorcerer | Wild Magic | 477F  | 5’7"   | Identity |
+| Titi | Plasmoid | Astral Drifter | Sorcerer | Wild Magic | ???F  | 5’7"   | Identity |
 ## **Backstory:**
 ---
 - Born on an asteroid, travelled through space for millennia
@@ -21,10 +21,11 @@
 - Feels she can't get through the day on her own, changes personality/mask to a caricature to surpass challenges
 - Has a bunch of wildly anachronistic outfits that she switches between on a dime (cowboy, pirate, knight, ninja, etc.)
 - Joined the [[Factions/Cirque des Fées\|Cirque des Fées]] due to their naivete and curiosity
+- Iden has found in the circus what she's needed all along. Something to ground her, some form of structure in a world which feels so much bigger than her. And there's so much to learn in there! So many people, so many stories! The others speak about how corrupt the circus is--how it fetishizes and exploits its members; could it really be so bad? Is it wrong for her to enjoy it? Would they hate her if she stayed? Her arc will only resolve once she realizes that her happiness is her choice. Even if others don't understand it. Even if they might think her weird for enjoying it. This is her life. Her story. 
 ## **Etymology:**
 ---
 >When paired with her nickname "Titi", "Iden 'Titi' Chrysos" becomes a play on words of "identity crisis".
 ## **Tags:**
 ---
-#Character #Set2 #PC #LeCirqueDesFées #Wydell 
+#Character #Set4 #PC #LeCirqueDesFées #Wydell 
 

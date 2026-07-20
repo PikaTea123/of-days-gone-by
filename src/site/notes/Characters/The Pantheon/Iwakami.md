@@ -34,6 +34,9 @@ Iwakami, as the Icon of Remembrance, rules over:
 ---
 ## Relationships
 
+---
+## Etymology
+>"Iwakami" comes from "iwa" (岩) meaning "rock" and "kami" (神/紙) meaning either "god" or "paper", referring to Iwakami being a god in the form of a stone cave with all of history carved across their walls.
 
 ---
 #Icon

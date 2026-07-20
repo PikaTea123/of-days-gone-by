@@ -34,6 +34,9 @@ Kragnyr, as the Icon of the Inferno, rules over:
 ---
 ## Relationships
 
+---
+## Etymology
+>"Kragnyr" uses harsh, high-fantasy consonants as well as mimicks the word "crag" to produce a more primal, volatile sounding name.
 
 ---
 #Icon #TheIndulgenceTrio 

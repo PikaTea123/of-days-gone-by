@@ -36,6 +36,9 @@ Ard'okaal, as the Icon of Ruin, rules over:
 ---
 ## Relationships
 
+---
+## Etymology
+>"Ard'okaal" is a collection of harsh fantasy syllables with a glottal stop in the middle to make it seem even more fractured.
 
 ---
 #Icon

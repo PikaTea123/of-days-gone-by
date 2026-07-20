@@ -14,7 +14,7 @@
 ## **Backstory:**
 ---
 - Dynamo (an actual cat and game-mechanic wise, the artificer):
-	- created as an experiment by [[Characters/Playable Characters/Dr. Will Erneut/Dr. Will Erneut\|Dr. Will Erneut]] as a gift for [[Characters/Playable Characters/Petla Erneut/Petla Erneut\|Petla Erneut]]
+	- created as an experiment by [[Characters/Playable Characters/Dr. Wels Erneut/Dr. Wels Erneut\|Dr. Wels Erneut]] as a gift for [[Characters/Playable Characters/Petla Erneut/Petla Erneut\|Petla Erneut]]
 	- Will felt that an non-sapient animal had the potential to be dangerous to Petla, so he used one of the artifacts he'd collected to breathe consciousness into the cat
 	- during his time there, Petla kept her distance in fear that Will would do something bad to the cat if she got too close to the cat
 	- after Petla's escape and Will's departure in pursuit of her, the cat was left alone and begun studying Will's notes to pass the time

@@ -14,7 +14,7 @@
 ---
 - Member of the [[Factions/Cult of the Lead Swan\|Cult of the Lead Swan]]
 - Older brother, [[Characters/Side Characters/Amralt Dalai\|Amralt Dalai]] was cursed with [[Magic Items/Ocean's Blight\|Ocean's Blight]]
-- Keeping the coral growths from Ocean's Blight alive in water slows their spread, so her brother stayed in the more impoverished aquatic half of the [[Locations/Tharin/Marzol/Lapisean Ocean/Surna-Yele\|Surna-Yele]] kingdom
+- Keeping the coral growths from Ocean's Blight alive in water slows their spread, so her brother stayed in the more impoverished aquatic half of the [[Factions/Surna-Yele\|Factions/Surna-Yele]] kingdom
 	- due to the Ocean's Blight claiming the oceanic part of the Surna-Yele, those who could afford it moved to the coasts
 	- Surna-Yele is the name of the country, Surna is the name of the species/ethnicity
 - Desperately asked around for a cure
@@ -29,14 +29,14 @@
 - She becomes a vigilante to get the deaths she needs by hunting evil, justifying that this was her redemption and her marks were simply evil people who deserved to die
 - Specifically hunted members of the Cult of the Lead Swan 
 - Entered the [[Factions/Waxing Crescent Guild\|Waxing Crescent Guild]] as a jeweller and collector of opalized fossils as a cover for her vigilantism and to fund her living; uses the skills she gained from her time in the cult to absolutely destroy "evil" associations
-- Destroys [[Locations/Tharin/Anadrie/Sevequaris/Cult of the Lead Swan HQ\|Cult of the Lead Swan HQ]] in [[Locations/Tharin/Anadrie/Sevequaris/Sevequaris\|Sevequaris]]
+- Destroys [[Locations/Tharin/Anadrie/Sevequaris/Cult of the Lead Swan HQ\|Cult of the Lead Swan HQ]] in [[Locations/Tharin/Anadrie/Dunns/Dunns\|Dunns]]
 - Prevented by Surna-Yele from seeing brother due to the quarantine
 - Now trying to find her own direct line of communication with Ard'okaal to destroy the Ocean's Blight, planning to create carnage by destroying the Surna-Yele government to attract Ard'okaal's full attention
 - Based on shattered opal and opalized fossils
 ## **Etymology:**
 ---
-> "Bolor" means "crystal" in Mongolian, while "dalai" means "ocean".
+> "Bolora Dalai" comes from Mongolian *bolor*, meaning "crystal", and *dalai*, meaning "ocean".
 ## **Tags:**
 ---
-#Character #Set3 #PC #CultOfTheLeadSwan #TheWaxingCrescentGuild #Marzol
+#Character #Set3 #PC #CultOfTheLeadSwan #TheWaxingCrescentGuild #Marizol
 
