@@ -28,7 +28,7 @@
 - While he made it very clear he doesn't want to be immortal, the others didn't want him to die again, so they kept him in the dark
 - He kept on pushing, but they can't tell him, and the group breaks apart
 - He desperately wants to die to see Ei and Pelayo along with his family again in the afterlife 
-- Joined the [[Factions/Cirque des Fées\|Cirque des Fées]] to pass the time and make some coin while he tries to figure out his next steps
+- Joined the [[Factions/Fairy Ring\|Fairy Ring]] to pass the time and make some coin while he tries to figure out his next steps
 - Cortege joined the circus on a whim, something to take his mind off of his inability to learn of what happened and also a way to make some coin since his adventuring career has seemingly ended. Of course he sees the exploitation, and he must play the hero. Yet still, he can't help but wonder what his life might be like under the companionable peace of the circus life. His arc can only resolve once he realizes that it's not his responsibility to fix it all. After fighting for so long, it is his right to decide how he lives. The others can leave--he should not stop them--but they should not hold him back from living his life either. It hurts no one, after all. If they try to hold the group together too hard, it very might collapse under their ideological differences. Perhaps they haven't remembered that goodbyes don't have to be forever.
 ## **Etymology:**
 ---

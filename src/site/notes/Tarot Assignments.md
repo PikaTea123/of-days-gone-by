@@ -9,7 +9,7 @@ Upright:
 3. The Empress - Rei
 4. The Emperor - Unn Oscern
 5. The Hierophant - Guilloche Maréchal
-6. The Lovers - Fabris
+6. The Lovers - Fabriz
 7. The Chariot - Okiki
 8. Strength - Katherine Avaldi
 9. The Hermit - Whisp
@@ -22,8 +22,8 @@ Upright:
 16. The Tower - Nikem Abioye
 17. The Star - Haskadar
 18. The Moon - Azarith
-19. The Sun - KeNikem Atezan
-20. Judgement - Nereo Ahogar
+19. The Sun - Kemuri Atezan
+20. Judgement - Nereo Ayogar
 21. The World - Ixila & Basset
 
 Reversed:
@@ -34,14 +34,14 @@ Reversed:
 4. The Emperor  - Barbaro
 5. The Hierophant - Conan Dubhan
 6. The Lovers - Mild Dissociation
-7. The Chariot - Will Erneut
+7. The Chariot - Dr. Wels Erneut
 8. Strength - Petla Erneut
 9. The Hermit - Zhyrgal Demasi
 10. The Wheel of Fortune - Tychia Merlo-Anahi
 11. Justice - Eutrophios Tengiz
 12. The Hanged Man - Helle Agnes
 13. Death - Magdalena Nergui
-14. Temperance - Pelayo Ahogar
+14. Temperance - Pelayo Ayogar
 15. The Devil - Bolora Dalai
 16. The Tower - Dynamo & Syzygy
 17. The Star - Dara Bakvong

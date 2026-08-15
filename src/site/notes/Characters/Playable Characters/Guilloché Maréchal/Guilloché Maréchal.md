@@ -12,7 +12,7 @@
 | Guilloché | Khenra   | House Agent | Sorcerer | Clockwork Soul | 28M   | 6'8"   | Narcotization |
 ## **Backstory:**
 ---
-- Butler hired at a very young age and practically raised by the family he was hired by in the [[Locations/Tharin/Anadrie/Dunns/Oscern Manor\|Oscern Manor]]
+- Butler hired at a very young age and practically raised by the family he was hired by in the [[Locations/Tharin/Anadrie/Sevequaris/Oscern Manor\|Oscern Manor]]
 - Beat down every time he made a mistake; very critical of self; obsessive over the idea of duty
 - Employers were members of the [[Factions/Cult of the Lead Swan\|Cult of the Lead Swan]] who wanted him to take care of their son, [[Characters/Playable Characters/Unn Oscern/Unn Oscern\|Unn Oscern]], while they were off doing cult duties
 - The cult was working with the AIC ([[Factions/Anti-Icon Coalition\|Anti-Icon Coalition]]) to unseal Kragnyr while the pantheon was already in disorder from [[Characters/The Pantheon/Nagaiame\|Nagaiame]]'s death, then also releasing Unn as a new god to restructure the pantheon

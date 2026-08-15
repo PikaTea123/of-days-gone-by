@@ -15,22 +15,22 @@
 ---
 - Dynamo (an actual cat and game-mechanic wise, the artificer):
 	- created as an experiment by [[Characters/Playable Characters/Dr. Wels Erneut/Dr. Wels Erneut\|Dr. Wels Erneut]] as a gift for [[Characters/Playable Characters/Petla Erneut/Petla Erneut\|Petla Erneut]]
-	- Will felt that an non-sapient animal had the potential to be dangerous to Petla, so he used one of the artifacts he'd collected to breathe consciousness into the cat
-	- during his time there, Petla kept her distance in fear that Will would do something bad to the cat if she got too close to the cat
-	- after Petla's escape and Will's departure in pursuit of her, the cat was left alone and begun studying Will's notes to pass the time
+	- Wels felt that an non-sapient animal had the potential to be dangerous to Petla, so he used one of the artifacts he'd collected to breathe consciousness into the cat
+	- during his time there, Petla kept her distance in fear that Wels would do something bad to the cat if she got too close to the cat
+	- after Petla's escape and Wels' departure in pursuit of her, the cat was left alone and begun studying Wels' notes to pass the time
 	- learned to exist quietly in the house and avoided drawing attention to himself
-	- having observed Will for a long time, he quickly grew competent at tinkering and experimented on many of the abandoned works that Will left behind
-	- named himself Dynamo after seeing Will's research papers on the dynamo effect
+	- having observed Wels for a long time, he quickly grew competent at tinkering and experimented on many of the abandoned works that Wels left behind
+	- named himself Dynamo after seeing Wels's research papers on the dynamo effect
 	- one of these inventions was a robotic dog left unfinished by Ikka Meryls Erneut
 	- Dynamo fixed him up and called him Syzygy
 - Syzygy (a robotic dog and game-mechanic wise, the steel defender):
-	- created by [[Characters/Side Characters/Ikka Meryls Erneut\|Ikka Meryls Erneut]] (whose genius rivalled and in some fields surpassed Will's), intended to protect Petla and be her faithful companion
+	- created by [[Characters/Side Characters/Ikka Meryls Erneut\|Ikka Meryls Erneut]] (whose genius rivalled and in some fields surpassed Wels'), intended to protect Petla and be her faithful companion
 	- was not finished before Ikka Meryls' death
 	- originally a non-sapient robot dog when Dynamo fixed him
 	- although he had Syzygy, Dynamo grew depressed about having no one who truly knew him, no one to talk to or to hold him over through the rough times
-	- Dynamo eventually had a breakdown over just how lonely he was and, continuing off the notes left behind by Will, programmed a near perfect simulated consciousness into Syzygy
+	- Dynamo eventually had a breakdown over just how lonely he was and, continuing off the notes left behind by Wels, programmed a near perfect simulated consciousness into Syzygy
 	- Syzygy was programmed to be just like a real person; even if Syzygy wasn't real and would eventually fall into disrepair past a point Dynamo could fix, Dynamo wanted to experience such affection at least once, no matter how fleeting
-	- Syzygy, knowing this and wanting to help, decided to suggest to Dynamo that they should leave and experience life beyond the walls of Will's laboratory
+	- Syzygy, knowing this and wanting to help, decided to suggest to Dynamo that they should leave and experience life beyond the walls of Wels' laboratory
 	- Syzygy's real goal, which he wants to be a surprise, is to track down either Vidatur or Ksekamt and ask them to transform him into a real blood and flesh dog
 - They are romantically involved with each other
 - Dynamo is has to maintain Syzygy to keep him running

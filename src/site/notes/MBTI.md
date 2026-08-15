@@ -23,7 +23,7 @@ Unn Oscern: INFP
 Pseudaesthesia: INFP  
 Beo: INFP
 
-Fabris: ESTJ  
+Fabriz: ESTJ  
 Magdalena Nergui: ESTJ  
 Yuan Jiao: ESTJ  
 Naochi Avaldi: ISTJ  
@@ -44,9 +44,9 @@ Elroi Beauregard: ISFJ
 Petla Erneut: ISFJ
 
 Haskadar: ENTJ  
-Will Erneut: ENTJ  
+Dr. Wels Erneut: ENTJ  
 Bolora Dalai: ENTJ  
-Nereo Ahogar: INTJ  
+Nereo Ayogar: INTJ  
 Rei: INTJ  
 Ei Aivan: INTJ  
 
@@ -54,4 +54,4 @@ Katherine Avaldi: ESFP
 Kemuri Atezan: ESFP  
 Dynamo: ISFP  
 Dara Bakvong: ISFP  
-Pelayo Ahogar: ISFP
+Pelayo Ayogar: ISFP

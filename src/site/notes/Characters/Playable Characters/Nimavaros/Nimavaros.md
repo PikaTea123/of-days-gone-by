@@ -19,7 +19,7 @@
 - In the labyrinth, she spent the next 100 years hiding away, surviving off the barest resources and befriending the few animals inside
 - Eventually, [[Characters/Playable Characters/Petla Erneut/Petla Erneut\|Petla Erneut]] came to raid the labyrinth, and after a brief scuffle, they befriended each other
 - After learning of her partner's betrayal, she vowed to take her revenge
-- Joined the [[Factions/Cirque des Fées\|Cirque des Fées]] with Petla to gain access to info about the Cult of the Lead Swan
+- Joined the [[Factions/Fairy Ring\|Fairy Ring]] with Petla to gain access to info about the Cult of the Lead Swan
 - Nimavaros joins primarily because of Petla, feeling that she must protect Petla to atone for her role in the cult. However, she won't scoff at the opportunities to learn about and get closer to the cult that the circus has given her. The corruption of the circus reminds her all too much of who she could have been had she not locked herself away. With Petla's words in her ears, she ponders if perhaps the complete destruction of the circus wouldn't be so bad. Her arc will resolve if she can realize the grays of the scenario; realize that no one wins if you go too far. She might leave or she might stay, but either way, it will be based on her own happiness. Not some nebulous ideology. 
 ## **Etymology:**
 ---

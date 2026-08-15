@@ -12,7 +12,7 @@
 | Petla | Human    | Haunted One | Barbarian | Ancestral Guardian | 9F    | 4'4"   | Indecision |
 ## **Backstory:**
 ---
-- Daughter of [[Characters/Playable Characters/Dr. Wels Erneut/Dr. Wels Erneut\|Will Erneut]] and [[Characters/Side Characters/Ikka Meryls Erneut\|Ikka Meryls Erneut]]
+- Daughter of [[Characters/Playable Characters/Dr. Wels Erneut/Dr. Wels Erneut\|Dr. Wels Erneut]] and [[Characters/Side Characters/Ikka Meryls Erneut\|Ikka Meryls Erneut]]
 - Never got to know mother due to her dying in childbirth
 - Lives a fairly well-off life for a while
 - At 5-years-old, meets a 9-year-old [[Characters/Playable Characters/Kemuri Atezan/Kemuri Atezan\|Kemuri Atezan]] at a playground in [[Locations/Tharin/Muejiza/Muejiza\|Muejiza]]; gets her address for a playdate 
@@ -31,7 +31,7 @@
 - Deciding to unseal it on a whim, she's terrified to encounter a hulking minotaur, [[Characters/Playable Characters/Nimavaros/Nimavaros\|Nimavaros]]
 - Nimavaros is actually quite kind, takes Petla along with her and vows to bring her to Kemuri Atezan
 - Petla is now determined to deliver the letter to Kemuri while remaining hidden from her father, also helping Nimavaros in combat whenever she can
-- Joined the [[Factions/Cirque des Fées\|Cirque des Fées]] to try and find Kemuri
+- Joined the [[Factions/Fairy Ring\|Fairy Ring]] to try and find Kemuri
 - Petla isn't all too happy about going from one form of exploitation to another, but she feels at least in the Cirque Fées, she has company who supports her. She joined in hopes of finding Kemuri along the way, remembering Kemuri mentioning her path towards the entertainment industry. Now that she's there with real power in her hands, she wonders if she can do anything to stop the dehumanizing practices of the circus. To complete her arc, she will leave, recognizing that just because she isn't happy there doesn't mean that no one is.
 ## **Etymology:**
 ---

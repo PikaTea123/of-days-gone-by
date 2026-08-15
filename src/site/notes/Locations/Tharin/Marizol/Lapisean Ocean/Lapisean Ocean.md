@@ -3,4 +3,4 @@
 ---
 
 Ocean bordering [[Locations/Tharin/Marizol/Marizol\|Marizol]]
-Contains [[Locations/Tharin/Marizol/Lapisean Ocean/Surna-Yele\|Locations/Tharin/Marizol/Lapisean Ocean/Surna-Yele]]
+Contains [[Locations/Tharin/Marizol/Lapisean Ocean/Surna-Yele\|Surna-Yele]]

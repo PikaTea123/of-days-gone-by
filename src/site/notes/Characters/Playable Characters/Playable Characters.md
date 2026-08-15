@@ -19,7 +19,7 @@
 | --- [[Characters/Playable Characters/Dynamo & Syzygy/Dynamo & Syzygy\|Syzygy]]      | "                                 | 1M         | Steel Defender | "                  | "                             |
 | [[Characters/Playable Characters/Elroi Beauregard/Elroi Beauregard\|Elroi Beauregard]]                 | The One-Way Mirror                | 32M        | Half-Elf       | Guild Artisan      | Drakewarden Ranger            |
 | [[Characters/Playable Characters/Eutrophios Tengiz/Eutrophios Tengiz\|Eutrophios Tengiz]]                | The Bathyal Pariah                | 111M       | Triton         | Noble              | Land Druid                    |
-| [[Characters/Playable Characters/Fabris/Fabris\|Fabris]]                           | The Fractal Fixer                 | 54F        | Warforged      | Gladiator          | Battle Master Fighter         |
+| [[Characters/Playable Characters/Fabriz/Fabriz\|Fabriz]]                           | The Fractal Fixer                 | 54F        | Warforged      | Gladiator          | Battle Master Fighter         |
 | [[Characters/Playable Characters/Guilloché Maréchal/Guilloché Maréchal\|Guilloché Maréchal]]               | The Syncopal Escapement           | 28M        | Khenra         | House Agent        | Clockwork Soul Sorcerer       |
 | [[Characters/Playable Characters/Haskadar/Haskadar\|Haskadar]]                         | The Belt of Venus                 | 371M       | Dragonborn     | Ruined             | Redemption Paladin            |
 | [[Characters/Playable Characters/Iden Chrysos/Iden Chrysos\|Iden Chrysos]]                     | The Cosmic Anomaly                | ???F       | Plasmoid       | Astral Drifter     | Wild Magic Sorcerer           |

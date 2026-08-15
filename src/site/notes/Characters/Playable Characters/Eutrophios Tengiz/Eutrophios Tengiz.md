@@ -12,7 +12,7 @@
 | Eutro | Triton   | Noble      | Druid | Land (Coast) | 111M  | 5'5"   | Fear   |
 ## **Backstory:**
 ---
-- Prince of [[Factions/Surna-Yele\|Factions/Surna-Yele]], part of the [[Factions/Crab Pact\|Crab Pact]]
+- Prince of [[Locations/Tharin/Marizol/Lapisean Ocean/Surna-Yele\|Surna-Yele]], part of the [[Factions/Crab Pact\|Crab Pact]]
 - Was raised on fear
 - Constantly threatened with abuse if he didn't obey his parents and become the heir they wanted him to be
 - Fear of being hurt for mistakes; prone to catastrophizing 
